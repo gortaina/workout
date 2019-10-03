@@ -1,11 +1,12 @@
 ### workout
 ##Daily workout
 
-100DaysWorkoutCode
+100DaysOfCode - from dailycodingproblem
+100DaysOfMLCode - from TCU, Sandeco, Siraj Raval, Kaggle
 
 TopCoder
 
-dailycodingproblem
+
 
 
 

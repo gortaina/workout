@@ -14,6 +14,7 @@ phone cause this.
 
 ##DDay 3 - NLP course - learning Transformer subject, may be I can get a Optimus Prime! 👾
 
+<image src=
 Toughs: I think that are advanced, so I'm going back to the basics
 
 

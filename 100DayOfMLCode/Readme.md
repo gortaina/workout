@@ -23,8 +23,9 @@ Toughs: I think that are advanced, so I'm going back to the basics
 ## Day 5 - 04/10/2016
  
 ## Day 6 - 05/10/2016
-
-## Day 7 -  06/10/2016 - [ ]
+- [ ]
+- [ ]
+## Day 7 -  06/10/2016 
 ## Day 8 -  07/10/2016
 ## Day 9 -  08/10/2016
 ## Day 10 - 09/10/2016

@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Curso JavaScript</title>
+    </head>
+
+    <body>
+        <a1>alo turma!</a1>
+
+
+        <div id="app">
+            <input type="text" name="nome" id="nome" class="nome" />
+            <input type="text" name="nome" id="nome2" />
+            <button class="botao">Adicionar</button>
+            <p>Teste botão</p>
+            <button onclick="mostraAlerta()">Me pressione</button>
+        </div>
+
+        <script>
+
+            //var inputElement = document.getElementById('nome');
+            //console.log(inputElement);
+            // retorna vetor
+            //inputElement = document.getElementsByTagName('input');
+            // retorna um elemento do vetor
+            //inputElement = document.getElementsByTagName('input')[0];
+            //ClassName
+            //inputElement = document.getElementsByClassName('nome')[0];
+            //console.log(inputElement);
+            // querySelector - retorna um elemento
+            //querySelectorAll - retorna todos os elementos
+            inputElement = document.querySelector('body div#app input');
+            console.log('body div#app input ')
+            console.log(inputElement);
+            //ou
+            // HashCode é o id
+            inputElement = document.querySelector('div#app input');
+            console.log('div#app input ')
+            console.log(inputElement);
+            //ou
+            inputElement = document.querySelector('input[name=nome]');
+            console.log('input[name=nome] ');
+            console.log(inputElement);
+            //ou retorna todos os elementos
+            inputElement = document.querySelectorAll('input');
+            console.log('input ');
+            console.log(inputElement);
+
+            // classe é o ponto
+            var btnElement = document.querySelector('button.botao');
+            inputElement = document.querySelector('input[name=nome]');
+
+            console.log('button.botao');
+            console.log(btnElement);
+            
+            btnElement.onclick = function(){
+                var text = inputElement.value;
+                alert('Botão 2 clicado. '+text);
+            }
+
+            function mostraAlerta(){
+                alert('Botão foi clicado!!!');
+            }
+
+
+        </script>
+    </body>
+</html>

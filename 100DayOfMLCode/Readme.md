@@ -1,24 +1,24 @@
 
-### 100DaysOfMLCode
+### #100DaysOfMLCode
 
 
-## Day 1 - 30/09/2019
+## Day 1 - 30/09/2019 - a couple minutes after begin of day 00:05
 enviroment setup, english plan and fill the "patience"
 
-## Day 2 - 01/10/2016
+## Day 2 - 30/10/2016 - near 00:00 of 01/10/2016
 Instaling miniconda on unbutu, I did a simple example with KNN(setorsis and kurtosis)
-#100DaysOfMLCode
 
 Toughs: I remmember in a interview, I mistaked KNN with K-Means! KKKK, I thinked heard "Key Near Neighbors" not K-Means, bad signals on the 
 phone cause this.
 
-## Day 3 - 02/10/2016
+## Day 3 - 02/10/2016 - near 00:00 of 02/10/2016
 NLP course - learning Transformer subject, may be I can get a Optimus Prime! 👾
+Toughs: I think that are advanced, so I'm going back to the basics
 
 <image src="./img/0001.jpg">
-Toughs: I think that are advanced, so I'm going back to the basics
   
-## Day 4 - 03/10/2016
+## Day 4 - 03/10/2016 
+
   
 ## Day 5 - 04/10/2016
  

@@ -12,7 +12,7 @@ Instaling miniconda on unbutu, I did a simple example with KNN(setorsis and kurt
 Toughs: I remmember in a interview, I mistaked KNN with K-Means! KKKK, I thinked heard "Key Near Neighbors" not K-Means, bad signals on the 
 phone cause this.
 
-##DDay 3 - NLP course - learning Transformer subject, may be I can get a Optimus Prime! 👾
+##DDy 3 - NLP course - learning Transformer subject, may be I can get a Optimus Prime! 👾
 
 <image src="./img/0001.jpg">
 Toughs: I think that are advanced, so I'm going back to the basics

@@ -15,10 +15,16 @@ Solve problem from Daily Coding Problem site
 Regiter for week of omnistack from  https://rocketseat.com.br/ 
 
 ## Day 3 - 01/10/2016 - Tuesday -near 00:00 of 02/10/2016
-  
+Relearning basic rules of javascript
+
+<img src="./img/Wallpaper-OmniStack.png">
+
 ## Day 4 - 02/10/2016 - Wednesday  
- 
+React Native - let´s build 
+<img  src="./img/1564682425906.svg">
+
 ## Day 5 - 03/10/2016 - Thursday
+
  
 ## Day 6 - 04/10/2016 - Friday 
 

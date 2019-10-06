@@ -37,7 +37,7 @@ End Omnistack camp! Air Cnc - "Air Code and Coffe" 🚀🚀
 
 Toughs - Node + React + React Native => Dopamina Burst´s
 #omnistacknextlevel #100DaysOfCode
-<img src="./img/2019-10-04_00-19-47.jpg">
+<img src="./img/omnistackw9.jpg">
 
 ## Day 7 -  05/10/2019 - Saturday 
 Creating a chatboot with dialogflow 

@@ -31,6 +31,7 @@ Toughs - next week I´ll take https://100daysofcode.com lesson´s I don´t wanna
 #100DaysOfCode
 
 <img src="./img/Wallpaper-OmniStack.png"> 
+
 ## Day 6 - 04/10/2016 - Friday 
 
 End Omnistack camp! Air Cnc - "Air Code and Coffe" 🚀🚀
@@ -45,4 +46,5 @@ Toughts - I didn´t know how easy is creating a chabot, cool!
 #100DaysOfCode
 
 <img src="./img/2019-10-05_20-51-08ss.jpg">
+
 https://twitter.com/JoelMel28866244/status/1180648105127137280

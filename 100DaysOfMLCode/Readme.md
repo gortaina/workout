@@ -6,10 +6,8 @@
 enviroment setup, english plan and fill the "patience"
 
 ## Day 2 - 30/10/2016 - Monday - near 00:00 of 01/10/2016
-Instaling miniconda on unbutu, I did a simple example with KNN(setorsis and kurtosis)
-
-Toughs: I remmember in a interview, I mistaked KNN with K-Means! KKKK, I thinked heard "Key Near Neighbors" not K-Means, bad signals on the 
-phone cause this.
+Installed miniconda on unbutu on VirtualBox, I did a simple example with KNN(setorsis and kurtosis).
+#100DaysOfMLCode
 
 ## Day 3 - 01/10/2016 - Tuesday -near 00:00 of 02/10/2016
 NLP course - learning Transformer subject, may be I can get a Optimus Prime! 👾
@@ -25,7 +23,13 @@ Takings of 1º notebook from fast.ai
 https://course.fast.ai/videos/?lesson=1
  
 ## Day 6 - 04/10/2016 - Friday 
-Taking first day course on Vidhyia
+Taking first day course on Vidhyia - Python
+
+## Day 7 -  05/10/2016 - Saturday
+Lesson 01 on Schools of AI - ML
+
+Toughs - It´s not easy follow two headlines.
+ #100DaysOfCode and #100DaysOfMLCode
 
 ## Day 7 -  05/10/2016 
 ## Day 8 -  06/10/2016

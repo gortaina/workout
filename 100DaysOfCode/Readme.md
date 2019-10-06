@@ -43,4 +43,6 @@ Toughs - Node + React + React Native => Dopamina Burst´s
 Creating a chatboot with dialogflow 
 Toughts - I didn´t know how easy is creating a chabot, cool!
 #100DaysOfCode
+
+<img src="./img/2019-10-05_20-51-08ss.jpg">
 https://twitter.com/JoelMel28866244/status/1180648105127137280

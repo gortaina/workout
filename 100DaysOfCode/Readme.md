@@ -22,7 +22,7 @@ Relearning basic rules of javascript, ES6+...
 ## Day 4 - 02/10/2016 - Wednesday  
 Revisiting Node.js
 
-<img  src="./img/1564682425906.svg">
+<img  src="./img/2019-10-04_00-20-05.jpg">
 
 ## Day 5 - 03/10/2016 - Thursday
 App with React and React Native
@@ -40,5 +40,7 @@ Toughs - Node + React + React Native => Dopamina Burst´s
 <img src="./img/Wallpaper-OmniStack.png">
 
 ## Day 7 -  05/10/2019 - Saturday 
-
+Creating a chatboot with dialogflow 
+Toughts - I didn´t know how easy is creating a chabot, cool!
+#100DaysOfCode
 https://twitter.com/JoelMel28866244/status/1180648105127137280

@@ -28,16 +28,16 @@ Revisiting Node.js
 App with React and React Native
 
 Toughs - next week I´ll take https://100daysofcode.com lesson´s I don´t wanna give the OmniStack from RocketSeat and I did´n like break the 2º rule. 
-
 #100DaysOfCode
- 
+
+<img src="./img/Wallpaper-OmniStack.png"> 
 ## Day 6 - 04/10/2016 - Friday 
 
 End Omnistack camp! Air Cnc - "Air Code and Coffe" 🚀🚀
 
 Toughs - Node + React + React Native => Dopamina Burst´s
 #omnistacknextlevel #100DaysOfCode
-<img src="./img/Wallpaper-OmniStack.png">
+<img src="./img/2019-10-04_00-19-47.jpg">
 
 ## Day 7 -  05/10/2019 - Saturday 
 Creating a chatboot with dialogflow 

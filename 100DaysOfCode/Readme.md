@@ -1,7 +1,7 @@
 ### 100DaysOfCode
 
 
-# Day 0 - 29/09/2019 - Sunday
+## Day 0 - 29/09/2019 - Sunday
 Discovery about 100 days of code, inenviroment setup, english plan and fill the "patience"
 
 

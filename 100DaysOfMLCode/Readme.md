@@ -31,7 +31,16 @@ Lesson 01 on Schools of AI - ML
 Toughs - It´s not easy follow two headlines.
  #100DaysOfCode and #100DaysOfMLCode
 
-## Day 7 -  05/10/2016 
+## Day 7 -  06/10/2016 - Morning
+Lesson 02 on Schools of AI - ML
+
+Toughs - I need more dopamine or need to rest? KKKK
+#100DaysOfMLCode
+
+
+
+
+
 ## Day 8 -  06/10/2016
 ## Day 9 -  07/10/2016
 ## Day 10 - 08/10/2016

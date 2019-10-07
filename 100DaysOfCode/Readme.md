@@ -48,3 +48,9 @@ Toughts - I didn´t know how easy is creating a chabot, cool!
 <img src="./img/2019-10-05_20-51-08ss.jpg">
 
 https://twitter.com/JoelMel28866244/status/1180648105127137280
+
+## Day 8 -  06/10/2019 - Sunday - dawn
+Applying ReactJS
+Toughts - I think that ReacJS is new Struts, all made in javascript
+#100DaysOfCode
+

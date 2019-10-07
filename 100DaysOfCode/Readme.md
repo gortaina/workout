@@ -54,7 +54,7 @@ Applying ReactJS
 Toughts - I think that ReacJS is new Struts, all made in javascript
 #100DaysOfCode
 
-## Day 9 -  06/10/2019 - Monday - 
+## Day 9 -  07/10/2019 - Monday - 
 Made with ReactJS
 Toughts - Sleep, sleep, sleep
 #100DaysOfCode

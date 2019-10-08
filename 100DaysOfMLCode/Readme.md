@@ -41,7 +41,7 @@ Toughs - I need more dopamine or need to rest? KKKK
 Lesson 03 on Schools of AI - ML
 
 ## Day 10 -  08/10/2016 - Morning
-My Speaker about Machine Learning and developers community
+My Speaker about Machine Learning and developers community at Federal General Accounting Office (TCU - Brazil)
 Toughs -Full Dopamine !!!🚀🚀🚀
 #100DaysOfMLCode
 

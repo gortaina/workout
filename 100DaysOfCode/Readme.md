@@ -62,7 +62,7 @@ Toughts - Sleep, sleep, sleep
 
 ## Day 10 -  08/10/2019 - Tuesday - nigth
 Getting some labs on GCP
-Toughts - I think that use GCP is not do the code because is a platform! May I back with simple java programs ? Wow ten days!!! HORRAAYYY!!! 🚀
+Toughts - I think that use GCP is not do the code because is a platform! Maybe I've to back with simple java programs ? Wow ten days!!! HORRAAYYY!!! 🚀
 #100DaysOfCode 
 
 

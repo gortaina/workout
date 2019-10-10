@@ -67,3 +67,12 @@ Toughts - I think that use GCP is not do the code because is a platform! Maybe I
 
 
 
+## Day 11 -  09/10/2019 - Wednesday - nigth
+No code today, just try read a little of this old book and listen this funny music
+https://youtu.be/mB5vc_OiQv8
+
+#100DaysOfCode #100DaysOfMLCode
+
+
+F:\PROFESSIONAL\curso_2019\tcu_fast_ai\hackmd
+

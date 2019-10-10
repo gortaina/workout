@@ -77,4 +77,4 @@ No code today, just try read a little and listen this funny music
 toughs - this old book doesn´t have any line of code at all! Just math. The cat´s name is MIA.
 https://youtu.be/mB5vc_OiQv8
 #100DaysOfCode #100DaysOfMLCode
-<img src="./img/joelss.jpg">
+

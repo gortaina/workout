@@ -65,14 +65,16 @@ Getting some labs on GCP
 Toughts - I think that use GCP is not do the code because is a platform! Maybe I've to back with simple java programs ? Wow ten days!!! HORRAAYYY!!! 🚀
 #100DaysOfCode 
 
-
-
 ## Day 11 -  09/10/2019 - Wednesday - nigth
-No code today, just try read a little of this old book and listen this funny music
+No code today, just try read a little and listen this funny music
+toughs - this old book doesn´t have any line of code at all! Just math. The cat´s name is MIA.
 https://youtu.be/mB5vc_OiQv8
-
 #100DaysOfCode #100DaysOfMLCode
+<img src="./img/joelss.jpg">
 
-
-F:\PROFESSIONAL\curso_2019\tcu_fast_ai\hackmd
-
+## Day 11/1001 -  09/10/2019 - Thursday - nigth
+No code today, just try read a little and listen this funny music
+toughs - this old book doesn´t have any line of code at all! Just math. The cat´s name is MIA.
+https://youtu.be/mB5vc_OiQv8
+#100DaysOfCode #100DaysOfMLCode
+<img src="./img/joelss.jpg">

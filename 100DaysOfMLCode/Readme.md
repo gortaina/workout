@@ -50,6 +50,7 @@ Toughs -Full Dopamine !!!🚀🚀🚀
 ## Day 11/1001 - 09/10/2019 - Wednesday - nigth
 No code today, just try read a little and listen this funny music toughs - this old book doesn´t have any line of code at all! Just math. The cat´s name is MIA. https://youtu.be/mB5vc_OiQv8 #100DaysOfCode #100DaysOfMLCode
 
+<image src="./../100DaysOfCode/img/joelss.jpg">
 
 ## Day 12/1001 -  10/10/2019 - Thursday - dawn
 Lesson 04 on Schools of AI - ML

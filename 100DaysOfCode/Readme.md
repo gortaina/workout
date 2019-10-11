@@ -72,9 +72,16 @@ https://youtu.be/mB5vc_OiQv8
 #100DaysOfCode #100DaysOfMLCode
 <img src="./img/joelss.jpg">
 
-## Day 11/1001 -  09/10/2019 - Thursday - nigth
+## Day 11/1001 -  09/10/2019 - Wednesday - nigth
 No code today, just try read a little and listen this funny music
 toughs - this old book doesn´t have any line of code at all! Just math. The cat´s name is MIA.
 https://youtu.be/mB5vc_OiQv8
 #100DaysOfCode #100DaysOfMLCode
+
+
+## Day 12/1001 -  10/10/2019 - Thursday - dawn
+Working with scripts for webscrap like iMacros
+toughs - raining here.
+#100DaysOfCode 
+#100DaysOfMLCode
 

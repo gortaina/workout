@@ -47,6 +47,11 @@ Toughs -Full Dopamine !!!🚀🚀🚀
 
 <image src="./img/palestra_tcu_nlp2019.jfif">
 
+## Day 12/1001 -  10/10/2019 - Thursday - dawn
+Lesson 04 on Schools of AI - ML
+toughs - raining here.
+#100DaysOfMLCode
+
 
 ## Day 8 -  06/10/2016
 ## Day 9 -  07/10/2016

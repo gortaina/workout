@@ -47,17 +47,17 @@ Toughs -Full Dopamine !!!🚀🚀🚀
 
 <image src="./img/palestra_tcu_nlp2019.jfif">
 
-## Day 11/1001 - 09/10/2019 - Wednesday - nigth
+## Day 11/101 - 09/10/2019 - Wednesday - nigth
 No code today, just try read a little and listen this funny music toughs - this old book doesn´t have any line of code at all! Just math. The cat´s name is MIA. https://youtu.be/mB5vc_OiQv8 #100DaysOfCode #100DaysOfMLCode
 
 [![Dev Life](https://github.com/ArquiteturaJoel/workout/blob/master/100DaysOfCode/img/2019-10-12_00-44-30.jpg)](https://www.youtube.com/watch?v=mB5vc_OiQv8)
 
-## Day 12/1001 -  10/10/2019 - Thursday - dawn
+## Day 12/101 -  10/10/2019 - Thursday - dawn
 Lesson 04 on Schools of AI - ML
 toughs - raining here.
 #100DaysOfMLCode
 
-## Day 13/1001 -  11/10/2019 - Fridday - nigth to dawn
+## Day 13/101 -  11/10/2019 - Fridday - nigth to dawn
 Hacktoberfest !!! Chatboot
 https://github.com/lappis-unb
 <image src="./img/a52d4e19-c0a7-439e-9a61-5fe06b819899.jpg">

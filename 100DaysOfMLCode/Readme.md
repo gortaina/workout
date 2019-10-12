@@ -57,6 +57,12 @@ Lesson 04 on Schools of AI - ML
 toughs - raining here.
 #100DaysOfMLCode
 
+## Day 13/1001 -  11/10/2019 - Fridday - nigth to dawn
+Hacktoberfest !!! Chatboot
+https://github.com/lappis-unb
+<image src="./img/a52d4e19-c0a7-439e-9a61-5fe06b819899.jpg">
+
+#100DaysOfCode 
 
 ## Day 8 -  06/10/2016
 ## Day 9 -  07/10/2016

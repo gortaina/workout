@@ -70,7 +70,7 @@ No code today, just try read a little and listen this funny music
 toughs - this old book doesn´t have any line of code at all! Just math. The cat´s name is MIA.
 https://youtu.be/mB5vc_OiQv8
 #100DaysOfCode #100DaysOfMLCode
-<img src="./img/joelss.jpg">
+<img src="./img/2019-10-12_00-44-30.jpg">
 
 ## Day 11/1001 -  09/10/2019 - Wednesday - nigth
 No code today, just try read a little and listen this funny music
@@ -84,4 +84,11 @@ Working with scripts for webscrap like iMacros
 toughs - raining here.
 #100DaysOfCode 
 #100DaysOfMLCode
+
+
+## Day 12/1001 -  10/10/2019 - Fridday - nith to dawn
+Hacktoberfest !!! Time to resolve the pull request
+toughs - Code and Bear! https://hacktoberfest.digitalocean.com/
+<img src="./img/HF19_social-744d976f227e4aff6866443abcede8c651b309ec9c7c9f7410f5944f8e1299b9.png">
+#100DaysOfCode 
 

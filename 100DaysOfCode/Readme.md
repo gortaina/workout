@@ -87,7 +87,7 @@ toughs - raining here.
 
 
 ## Day 13/1001 -  11/10/2019 - Fridday - nith to dawn
-Hacktoberfest !!! Time to resolve the pull request
+Hacktoberfest !!! Time to resolve the pull requests from GitHub
 toughs - Code and Bear! https://hacktoberfest.digitalocean.com/
 <img src="./img/HF19_social-744d976f227e4aff6866443abcede8c651b309ec9c7c9f7410f5944f8e1299b9.png">
 #100DaysOfCode 

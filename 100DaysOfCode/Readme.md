@@ -72,21 +72,21 @@ https://youtu.be/mB5vc_OiQv8
 #100DaysOfCode #100DaysOfMLCode
 <img src="./img/2019-10-12_00-44-30.jpg">
 
-## Day 11/1001 -  09/10/2019 - Wednesday - nigth
+## Day 11/101 -  09/10/2019 - Wednesday - nigth
 No code today, just try read a little and listen this funny music
 toughs - this old book doesn´t have any line of code at all! Just math. The cat´s name is MIA.
 [![Dev Life](https://img.youtube.com/vi/mB5vc_OiQv8/2019-10-12_00-44-30.jpg)](https://www.youtube.com/watch?v=mB5vc_OiQv8)
 #100DaysOfCode #100DaysOfMLCode
 
 
-## Day 12/1001 -  10/10/2019 - Thursday - dawn
+## Day 12/101 -  10/10/2019 - Thursday - dawn
 Working with scripts for webscrap like iMacros
 toughs - raining here.
 #100DaysOfCode 
 #100DaysOfMLCode
 
 
-## Day 13/1001 -  11/10/2019 - Fridday - nith to dawn
+## Day 13/101 -  11/10/2019 - Fridday - nigth to dawn
 Hacktoberfest !!! Time to resolve the pull requests from GitHub
 toughs - Code and Beer! https://hacktoberfest.digitalocean.com/
 <img src="./img/HF19_social-744d976f227e4aff6866443abcede8c651b309ec9c7c9f7410f5944f8e1299b9.png">

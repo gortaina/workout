@@ -58,7 +58,7 @@ toughs - raining here.
 #100DaysOfMLCode
 
 ## Day 13/101 -  11/10/2019 - Fridday - nigth to dawn
-Hacktoberfest !!! Chatboot
+Hacktoberfest !!! Chatboots from github - time to resolve pull requests
 https://github.com/lappis-unb
 <image src="./img/a52d4e19-c0a7-439e-9a61-5fe06b819899.jpg">
 

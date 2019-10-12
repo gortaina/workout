@@ -61,8 +61,7 @@ toughs - raining here.
 Hacktoberfest !!! Chatboots from github - time to resolve pull requests
 https://github.com/lappis-unb
 <image src="./img/a52d4e19-c0a7-439e-9a61-5fe06b819899.jpg">
-
-#100DaysOfCode 
+#100DaysOfMLCode
 
 ## Day 8 -  06/10/2016
 ## Day 9 -  07/10/2016

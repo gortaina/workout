@@ -68,6 +68,13 @@ Solve labs on Cloud Hero
 #100DaysOfMLCode
 #100DaysOfCode
 
+## Day 15/101 -  13/10/2019 - Sunday- afternoon
+Reinforcement Learning on deepRace from AWS
+https://d2k9g1efyej86q.cloudfront.net/
+
+#100DaysOfMLCode
+
+
 ## Day 8 -  06/10/2016
 ## Day 9 -  07/10/2016
 ## Day 10 - 08/10/2016

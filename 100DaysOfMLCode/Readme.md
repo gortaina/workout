@@ -63,6 +63,11 @@ https://github.com/lappis-unb
 <image src="./img/a52d4e19-c0a7-439e-9a61-5fe06b819899.jpg">
 #100DaysOfMLCode
 
+## Day 14/101 -  12/10/2019 - Sartuday- nigth to dawn
+Solve labs on Cloud Hero
+#100DaysOfMLCode
+#100DaysOfCode
+
 ## Day 8 -  06/10/2016
 ## Day 9 -  07/10/2016
 ## Day 10 - 08/10/2016

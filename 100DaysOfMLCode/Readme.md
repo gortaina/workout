@@ -70,8 +70,8 @@ Solve labs on Cloud Hero
 
 ## Day 15/101 -  13/10/2019 - Sunday- afternoon
 Reinforcement Learning on deepRace from AWS
-https://d2k9g1efyej86q.cloudfront.net/
-
+Click on it!
+[![DeepRacer](https://github.com/ArquiteturaJoel/workout/blob/master/100DaysOfCode/img/2019-10-13_18-28-20.jpg)](https://d2k9g1efyej86q.cloudfront.net/)
 #100DaysOfMLCode
 
 

@@ -1,6 +1,19 @@
 
 ### #100DaysOfMLCode
 
+
+## Day 17/102 -  15/10/2019 - Tuesday
+Doctor says that I had a burnout crisis, 
+must stay 10 days in house, but a can do coding for fun.
+Happy end 0/ I think, 🤪
+#100DaysOfMLCode #100DaysOfCode
+
+## Day 16/102 -  14/10/2019 - Monday
+My boss doesn't let me programming. WHAT!😱😱
+He said programming is not welcome there, that I should be service desk only(my contract doesn't have that)
+It´s affected me deeply, I had a crisis attack. I´ll need a Doctor. 🥺😥
+#100DaysOfMLCode #100DaysOfCode
+
 ## Day 15/101 -  13/10/2019 - Sunday- afternoon
 Reinforcement Learning on deepRace from AWS
 Click on it!

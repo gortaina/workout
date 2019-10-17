@@ -1,5 +1,13 @@
 ### 100DaysOfCode
 
+## Day 19/102 -  17/10/2019 - Thursday
+I did some exercises on GCP II
+#100DaysOfMLCode #100DaysOfCode
+
+## Day 18/102 -  16/10/2019 - Wednesday
+I did some exercises on GCP
+#100DaysOfMLCode #100DaysOfCode
+
 ## Day 17/102 - 15/10/2019 - Tuesday
 Doctor says that I had a burnout crisis, must stay 10 days in house, but a can do coding for fun. Happy end 0/ I think, 🤪 #100DaysOfMLCode #100DaysOfCode
 

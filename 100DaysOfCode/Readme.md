@@ -1,5 +1,11 @@
 ### 100DaysOfCode
 
+## Day 21/102 -  19/10/2019 - morning
+Quest´ on GCP, 2º place \o
+#100DaysOfMLCode #100DaysOfCode
+
+<image src="./img/2019-10-19_12-06-23aa.jpg">
+
 ## Day 20/102 -  18/10/2019 - dawn
 I did some exercises on GCP III - Cloud Hero
 #100DaysOfMLCode #100DaysOfCode

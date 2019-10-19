@@ -1,5 +1,9 @@
 ### 100DaysOfCode
 
+## Day 20/102 -  18/10/2019 - dawn
+I did some exercises on GCP III - Cloud Hero
+#100DaysOfMLCode #100DaysOfCode
+
 ## Day 19/102 -  17/10/2019 - Thursday
 I did some exercises on GCP II
 #100DaysOfMLCode #100DaysOfCode

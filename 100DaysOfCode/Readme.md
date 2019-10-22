@@ -1,12 +1,20 @@
 ### 100DaysOfCode
 
-## Day 21/102 -  19/10/2019 - morning
+## Day 23/104 - Monday 21/10/2019
+Computer crash yesterday, bought new SSD for my old FX8320e.
+It´s take a long time reinstalling all things
+
+## Day 22/104 - Sunday- 20/10/2019
+Computer crash..... bad, bad, bad HD.... it very old, more than 10 years.😱😱 
+#100DaysOfMLCode #100DaysOfCode
+
+## Day 21/102 -  19/10/2019 -Sartuday - morning
 Quest´ on GCP, 2º place \o
 #100DaysOfMLCode #100DaysOfCode
 
 <image src="./img/2019-10-19_12-06-23aa.jpg">
 
-## Day 20/102 -  18/10/2019 - dawn
+## Day 20/102 -  18/10/2019 - Fridday - dawn
 I did some exercises on GCP III - Cloud Hero
 #100DaysOfMLCode #100DaysOfCode
 

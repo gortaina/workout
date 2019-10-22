@@ -1,5 +1,12 @@
-
 ### #100DaysOfMLCode
+
+## Day 23/104 -  21/10/2019
+Computer crash yesterday, bought new SSD for my old FX8320e.
+It´s take a long time reinstalling all things
+
+## Day 22/104 -  20/10/2019
+Computer crash..... bad, bad, bad HD.... it very old, more than 10 years.
+#100DaysOfMLCode #100DaysOfCode
 
 ## Day 21/102 -  19/10/2019 - morning
 Quest´ on GCP, 2º place \o

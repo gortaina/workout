@@ -1,6 +1,6 @@
 ### #100DaysOfMLCode
 
-## Day 23/104 -21/10/2019- Tuesday
+## Day 24/104 -22/10/2019- Tuesday
 Do somoe GCP labs on cloud hero(friend computer).
 My computer still down, I´m still recoverying data...
 #100DaysOfMLCode #100DaysOfCode

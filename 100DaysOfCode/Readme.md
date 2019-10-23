@@ -1,5 +1,10 @@
 ### 100DaysOfCode
 
+## Day 24/104 -22/10/2019- Tuesday
+Do somoe GCP labs on cloud hero(friend computer).
+My computer still down, I´m still recoverying data...
+#100DaysOfMLCode #100DaysOfCode
+
 ## Day 23/104 - Monday 21/10/2019
 Computer crash yesterday, bought new SSD for my old FX8320e.
 It´s take a long time reinstalling all things

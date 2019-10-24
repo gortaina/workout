@@ -1,5 +1,11 @@
 ### 100DaysOfCode
 
+## Day 25/104 -23/10/2019- Wednesday
+Studying the zaproxy, a tool for test vulnerabilities on app´s, check in:
+https://github.com/ArquiteturaJoel/zaproxy
+Toughs - My computer recovered, only the basics like chrome, bookmark, extensions, sessions
+#100DaysOfMLCode #100DaysOfCode
+
 ## Day 24/104 -22/10/2019- Tuesday
 Do somoe GCP labs on cloud hero(friend computer).
 My computer still down, I´m still recoverying data...

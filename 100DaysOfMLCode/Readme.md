@@ -1,5 +1,12 @@
 ### #100DaysOfMLCode
 
+## Day 26/104 -23/10/2019- Thursday
+After work mnay times on GCP, the goldies \o
+First Place in Cloud Hero: 
+https://github.com/ArquiteturaJoel/zaproxy
+Toughs - My computer recovered, only the basics like chrome, bookmark, extensions, sessions
+#100DaysOfMLCode #100DaysOfCode
+
 ## Day 25/104 -23/10/2019- Wednesday
 Studying the zaproxy, a tool for test vulnerabilities on app´s, check in:
 https://github.com/ArquiteturaJoel/zaproxy

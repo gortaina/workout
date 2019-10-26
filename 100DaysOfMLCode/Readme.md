@@ -1,10 +1,15 @@
 ### #100DaysOfMLCode
 
-## Day 26/104 -23/10/2019- Thursday
-After work mnay times on GCP, the goldies \o
-First Place in Cloud Hero: 
-https://github.com/ArquiteturaJoel/zaproxy
-Toughs - My computer recovered, only the basics like chrome, bookmark, extensions, sessions
+## Day 27/104 -25/10/2019 - Friday - night
+I get the first place again! Cloud Hero: Kubernetes
+🚀🚀🚀
+<image src="./img/2019-10-24_13-02-23.jpg">
+#100DaysOfMLCode #100DaysOfCode
+ 
+## Day 26/104 -24/10/2019 - Thursday - night
+After work many times on GCP, I get the first place in Cloud Hero: Machine Learning Serverles 1.0
+Dopamine ? FULLLY!
+<image src="./img/2019-10-25_22-26-32.jpg">
 #100DaysOfMLCode #100DaysOfCode
 
 ## Day 25/104 -23/10/2019- Wednesday

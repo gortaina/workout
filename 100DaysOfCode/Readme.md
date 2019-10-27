@@ -2,8 +2,11 @@
 
 
 ## Day 28/104 - 26/10/2019 - Sartuday - day
-DEVFest2019 
-#100DaysOfMLCode #100DaysOfCode #DEVFest2019
+DEVFest2019 by Google
+
+#100DaysOfMLCode 
+#100DaysOfCode
+#DEVFest2019
 <image src="./img/devfest209.jpg">
 
 ## Day 27/104 -25/10/2019 - Friday - night

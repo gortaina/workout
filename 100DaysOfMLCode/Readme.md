@@ -72,7 +72,7 @@ Happy end 0/ I think, 🤪
 ## Day 16/102 -  14/10/2019 - Monday
 My boss doesn't let me programming. WHAT!😱😱
 He said programming is not welcome there, that I should be service desk only(my contract doesn't have that)
-It´s affected me deeply, I had a crisis attack. I´ll need a Doctor. 😥😥
+It´s affected me deeply, I had a crisis attack. I´ll need a Doctor. :🥺😥
 #100DaysOfMLCode #100DaysOfCode
 
 ## Day 15/101 -  13/10/2019 - Sunday- afternoon

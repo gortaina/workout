@@ -72,7 +72,7 @@ Happy end 0/ I think, 🤪
 ## Day 16/102 -  14/10/2019 - Monday
 My boss doesn't let me programming. WHAT!😱😱
 He said programming is not welcome there, that I should be service desk only(my contract doesn't have that)
-It´s affected me deeply, I had a crisis attack. I´ll need a Doctor. 🥺😥
+It´s affected me deeply, I had a crisis attack. I´ll need a Doctor. 😥😥
 #100DaysOfMLCode #100DaysOfCode
 
 ## Day 15/101 -  13/10/2019 - Sunday- afternoon
@@ -80,7 +80,7 @@ Reinforcement Learning on deepRace from AWS
 Click on it!
 #100DaysOfMLCode
 
-[![DeepRacer](https://github.com/ArquiteturaJoel/workout/blob/master/100DaysOfMLCode/img/2019-10-13_18-28-20.jpg)](https://d2k9g1efyej86q.cloudfront.net)
+[![DeepRacer](https://github.com/ArquiteturaJoel/workout/blob/master/img/2019-10-13_18-28-20.jpg)](https://d2k9g1efyej86q.cloudfront.net)
 
 ## Day 14/101 -  12/10/2019 - Sartuday- nigth to dawn
 Solve labs on Cloud Hero

@@ -1,5 +1,11 @@
 ### #100DaysOfMLCode
 
+
+## Day 28/104 - 26/10/2019 - Sartuday - day
+DEVFest2019 
+#100DaysOfMLCode #100DaysOfCode #DEVFest2019
+<image src="./img/devfest209.jpg">
+
 ## Day 27/104 -25/10/2019 - Friday - night
 3 in row! Marveloussssssss, first place again \o
 Cloud Hero One World Warm up: Development Arena

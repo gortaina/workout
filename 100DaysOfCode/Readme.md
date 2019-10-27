@@ -1,5 +1,30 @@
 ### 100DaysOfCode
 
+
+## Day 28/104 - 26/10/2019 - Sartuday - day
+DEVFest2019 
+#100DaysOfMLCode #100DaysOfCode #DEVFest2019
+<image src="./img/devfest209.jpg">
+
+## Day 27/104 -25/10/2019 - Friday - night
+3 in row! Marveloussssssss, first place again \o
+Cloud Hero One World Warm up: Development Arena
+ðŸ¬Overflowing  dopamine!!!ðŸ˜ âœˆâœˆâœˆ
+#100DaysOfMLCode #100DaysOfCode
+<image src="./img/2019-10-25_22-53-10.jpg">
+ 
+## Day 27/104 -25/10/2019 - Friday - day
+I get the first place again! Cloud Hero: Kubernetes
+ðŸš€ðŸš€ðŸš€
+<image src="./img/2019-10-24_13-02-23.jpg">
+#100DaysOfMLCode #100DaysOfCode
+ 
+## Day 26/104 -24/10/2019 - Thursday - night
+After work many times on GCP, I get the first place in Cloud Hero: Machine Learning Serverles 1.0
+Dopamine ? FULLLY!
+<image src="./img/2019-10-25_22-26-32.jpg">
+#100DaysOfMLCode #100DaysOfCode
+
 ## Day 25/104 -23/10/2019- Wednesday
 Studying the zaproxy, a tool for test vulnerabilities on app´s, check in:
 https://github.com/ArquiteturaJoel/zaproxy

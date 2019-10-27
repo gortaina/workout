@@ -2,7 +2,7 @@
 
 
 ## Day 28/104 - 26/10/2019 - Sartuday - day
-DEVFest2019 by Google
+DEVFest2019 by Google<br>
 
 #100DaysOfMLCode 
 #100DaysOfCode
@@ -10,37 +10,37 @@ DEVFest2019 by Google
 <image src="./../img/devfest209.jpg">
 
 ## Day 27/104 -25/10/2019 - Friday - night
-3 in row! Marveloussssssss, first place again \o
-Cloud Hero One World Warm up: Development Arena
-🐬Overflowing  dopamine!!!😍 ✈✈✈
+3 in row! Marveloussssssss, first place again \o<br>
+Cloud Hero One World Warm up: Development Arena<br>
+🐬Overflowing  dopamine!!!😍 ✈✈✈<br>
 #100DaysOfMLCode #100DaysOfCode
 <image src="./../img/2019-10-25_22-53-10.jpg">
  
 ## Day 27/104 -25/10/2019 - Friday - day
-I get the first place again! Cloud Hero: Kubernetes
+I get the first place again! Cloud Hero: Kubernetes<br>
 ðŸš€ðŸš€ðŸš€
 <image src="./../img/2019-10-24_13-02-23.jpg">
 #100DaysOfMLCode #100DaysOfCode
  
 ## Day 26/104 -24/10/2019 - Thursday - night
-After work many times on GCP, I get the first place in Cloud Hero: Machine Learning Serverles 1.0
+After work many times on GCP, I get the first place in Cloud Hero: Machine Learning Serverles 1.0<br>
 Dopamine ? FULLLY!
 <image src="./../img/2019-10-25_22-26-32.jpg">
 #100DaysOfMLCode #100DaysOfCode
 
 ## Day 25/104 -23/10/2019- Wednesday
-Studying the zaproxy, a tool for test vulnerabilities on app´s, check in:
-https://github.com/ArquiteturaJoel/zaproxy
-Toughs - My computer recovered, only the basics like chrome, bookmark, extensions, sessions
+Studying the zaproxy, a tool for test vulnerabilities on app´s, check in:<br>
+https://github.com/ArquiteturaJoel/zaproxy<br>
+Toughs - My computer recovered, only the basics like chrome, bookmark, extensions, sessions<br>
 #100DaysOfMLCode #100DaysOfCode
 
 ## Day 24/104 -22/10/2019- Tuesday
-Do somoe GCP labs on cloud hero(friend computer).
-My computer still down, I´m still recoverying data...
+Do somoe GCP labs on cloud hero(friend computer).<br>
+My computer still down, I´m still recoverying data...<br>
 #100DaysOfMLCode #100DaysOfCode
 
 ## Day 23/104 - Monday 21/10/2019
-Computer crash yesterday, bought new SSD for my old FX8320e.
+Computer crash yesterday, bought new SSD for my old FX8320e.<br>
 It´s take a long time reinstalling all things
 
 ## Day 22/104 - Sunday- 20/10/2019

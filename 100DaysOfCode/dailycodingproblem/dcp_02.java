@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 
-public class dcp_29_09_2010 {
+public class dcp_02 {
 
 	/*
 	 * This problem was asked by Uber.
@@ -18,7 +18,7 @@ public class dcp_29_09_2010 {
 	 */
 
 	public static void main(String[] args) {
-		dcp_29_09_2010 cl1 = new dcp_29_09_2010();
+		dcp_02 cl1 = new dcp_02();
 		cl1.init();
 		System.out.println("END RunTime");
 	}

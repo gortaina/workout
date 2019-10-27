@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 
-public class dcp_28_09_2019 {
+public class dcp_01 {
 
 	/**
 	 *This problem was recently asked by Google.
@@ -10,7 +10,7 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 Bonus: Can you do this in one pass?
 	 */
 	public static void main(String[] args) {
-		dcp_28_09_2019 cl1 = new dcp_28_09_2019();
+		dcp_01 cl1 = new dcp_01();
 		cl1.init();
 		System.out.println("END RunTime");
 	}

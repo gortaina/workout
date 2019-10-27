@@ -7,25 +7,25 @@ DEVFest2019 by Google
 #100DaysOfMLCode 
 #100DaysOfCode
 #DEVFest2019
-<image src="./img/devfest209.jpg">
+<image src="./../img/devfest209.jpg">
 
 ## Day 27/104 -25/10/2019 - Friday - night
 3 in row! Marveloussssssss, first place again \o
 Cloud Hero One World Warm up: Development Arena
 ðŸ¬Overflowing  dopamine!!!ðŸ˜ âœˆâœˆâœˆ
 #100DaysOfMLCode #100DaysOfCode
-<image src="./img/2019-10-25_22-53-10.jpg">
+<image src="./../img/2019-10-25_22-53-10.jpg">
  
 ## Day 27/104 -25/10/2019 - Friday - day
 I get the first place again! Cloud Hero: Kubernetes
 ðŸš€ðŸš€ðŸš€
-<image src="./img/2019-10-24_13-02-23.jpg">
+<image src="./../img/2019-10-24_13-02-23.jpg">
 #100DaysOfMLCode #100DaysOfCode
  
 ## Day 26/104 -24/10/2019 - Thursday - night
 After work many times on GCP, I get the first place in Cloud Hero: Machine Learning Serverles 1.0
 Dopamine ? FULLLY!
-<image src="./img/2019-10-25_22-26-32.jpg">
+<image src="./../img/2019-10-25_22-26-32.jpg">
 #100DaysOfMLCode #100DaysOfCode
 
 ## Day 25/104 -23/10/2019- Wednesday
@@ -51,7 +51,7 @@ Computer crash..... bad, bad, bad HD.... it very old, more than 10 years.😱�
 Quest´ on GCP, 2º place \o
 #100DaysOfMLCode #100DaysOfCode
 
-<image src="./img/2019-10-19_12-06-23aa.jpg">
+<image src="./../img/2019-10-19_12-06-23aa.jpg">
 
 ## Day 20/102 -  18/10/2019 - Fridday - dawn
 I did some exercises on GCP III - Cloud Hero
@@ -76,7 +76,7 @@ This page is amazing, about pathfindind algorithm
 https://clementmihailescu.github.io/Pathfinding-Visualizer/#
 #100DaysOfCode
 
-<img src="./img/EEH8Vm2UwAAas8h.jpg">
+<img src="./../img/EEH8Vm2UwAAas8h.jpg">
 
 https://www.hackathonsaustralia.com/
 
@@ -90,7 +90,7 @@ Hacktoberfest !!! Time to resolve the pull requests from GitHub
 toughs - Code and Beer! 
 # https://hacktoberfest.digitalocean.com/
 
-<img src="./img/HF19_social-744d976f227e4aff6866443abcede8c651b309ec9c7c9f7410f5944f8e1299b9.png">
+<img src="./../img/HF19_social-744d976f227e4aff6866443abcede8c651b309ec9c7c9f7410f5944f8e1299b9.png">
 
 #100DaysOfCode 
 
@@ -111,7 +111,7 @@ No code today, just try read a little and listen this funny music
 toughs - this old book doesn´t have any line of code at all! Just math. The cat´s name is MIA.
 https://youtu.be/mB5vc_OiQv8
 #100DaysOfCode #100DaysOfMLCode
-<img src="./img/2019-10-12_00-44-30.jpg">
+<img src="./../img/2019-10-12_00-44-30.jpg">
 
 ## Day 10 -  08/10/2019 - Tuesday - nigth
 Getting some labs on GCP
@@ -122,7 +122,7 @@ Toughts - I think that use GCP is not do the code because is a platform! Maybe I
 Made with ReactJS
 Toughts - Sleep, sleep, sleep
 #100DaysOfCode
-<img src="./img/2019-10-07_03-19-27.jpg">
+<img src="./../img/2019-10-07_03-19-27.jpg">
 
 ## Day 8 -  06/10/2019 - Sunday - dawn
 Applying ReactJS
@@ -134,7 +134,7 @@ Creating a chatboot with dialogflow
 Toughts - I didn´t know how easy is creating a chabot, cool!
 #100DaysOfCode
 
-<img src="./img/2019-10-05_20-51-08ss.jpg">
+<img src="./../img/2019-10-05_20-51-08ss.jpg">
 
 https://twitter.com/JoelMel28866244/status/1180648105127137280
 
@@ -142,24 +142,24 @@ https://twitter.com/JoelMel28866244/status/1180648105127137280
 End Omnistack camp! Air Cnc - "Air Code and Coffe" 🚀🚀
 Toughs - Node + React + React Native => Dopamina Burst´s
 #omnistacknextlevel #100DaysOfCode
-<img src="./img/omnistackw9.jpg">
+<img src="./../img/omnistackw9.jpg">
 
 ## Day 5 - 03/10/2016 - Thursday
 App with React and React Native
 Toughs - next week I´ll take https://100daysofcode.com lesson´s I don´t wanna give the OmniStack from RocketSeat and I did´n like break the 2º rule. 
 #100DaysOfCode
 
-<img src="./img/2019-10-04_00-19-47.jpg"> 
+<img src="./../img/2019-10-04_00-19-47.jpg"> 
 
 ## Day 4 - 02/10/2016 - Wednesday  
 Revisiting Node.js
 
-<img  src="./img/2019-10-04_00-20-05.jpg">
+<img  src="./../img/2019-10-04_00-20-05.jpg">
 
 ## Day 3 - 01/10/2016 - Tuesday -near 00:00 of 02/10/2016
 Relearning basic rules of javascript, ES6+...
 
-<img src="./img/Wallpaper-OmniStack.png">
+<img src="./../img/Wallpaper-OmniStack.png">
 
 ## Day 2 - 30/10/2016 - Monday - near 00:00 of 01/10/2016
 Solve problem from Daily Coding Problem site

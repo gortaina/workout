@@ -4,25 +4,25 @@
 ## Day 28/104 - 26/10/2019 - Sartuday - day
 DEVFest2019 
 #100DaysOfMLCode #100DaysOfCode #DEVFest2019
-<image src="./img/devfest209.jpg">
+<image src="./../img/devfest209.jpg">
 
 ## Day 27/104 -25/10/2019 - Friday - night
 3 in row! Marveloussssssss, first place again \o
 Cloud Hero One World Warm up: Development Arena
 🐬Overflowing  dopamine!!!😍 ✈✈✈
 #100DaysOfMLCode #100DaysOfCode
-<image src="./img/2019-10-25_22-53-10.jpg">
+<image src="./../img/2019-10-25_22-53-10.jpg">
  
 ## Day 27/104 -25/10/2019 - Friday - day
 I get the first place again! Cloud Hero: Kubernetes
 🚀🚀🚀
-<image src="./img/2019-10-24_13-02-23.jpg">
+<image src="./../img/2019-10-24_13-02-23.jpg">
 #100DaysOfMLCode #100DaysOfCode
  
 ## Day 26/104 -24/10/2019 - Thursday - night
 After work many times on GCP, I get the first place in Cloud Hero: Machine Learning Serverles 1.0
 Dopamine ? FULLLY!
-<image src="./img/2019-10-25_22-26-32.jpg">
+<image src="./../img/2019-10-25_22-26-32.jpg">
 #100DaysOfMLCode #100DaysOfCode
 
 ## Day 25/104 -23/10/2019- Wednesday
@@ -48,7 +48,7 @@ Computer crash..... bad, bad, bad HD.... it very old, more than 10 years.
 Quest´ on GCP, 2º place \o
 #100DaysOfMLCode #100DaysOfCode
 
-<image src="./img/2019-10-19_12-06-23aa.jpg">
+<image src="./../img/2019-10-19_12-06-23aa.jpg">
 
 ## Day 20/102 -  18/10/2019 - Friday -dawn
 I did some exercises on GCP III - Cloud Hero
@@ -92,7 +92,7 @@ Hacktoberfest !!! Chatboots from github - time to resolve pull requests
 https://github.com/lappis-unb
 #100DaysOfMLCode
 
-<image src="./img/a52d4e19-c0a7-439e-9a61-5fe06b819899.jpg">
+<image src="./../img/a52d4e19-c0a7-439e-9a61-5fe06b819899.jpg">
 
 ## Day 12/101 -  10/10/2019 - Thursday - dawn
 Lesson 04 on Schools of AI - ML
@@ -130,7 +130,7 @@ Taking first day course on Vidhyia - Python
 Takings of 1º notebook from fast.ai
 https://course.fast.ai/videos/?lesson=1
  
-<image src="./img/palestra_tcu_nlp2019.jfif">
+<image src="./../img/palestra_tcu_nlp2019.jfif">
 
 ## Day 4 - 02/10/2016 - Wednesday  
 nothing - I needed finish my homeclass - linear algebra
@@ -139,7 +139,7 @@ nothing - I needed finish my homeclass - linear algebra
 NLP course - learning Transformer subject, may be I can get a Optimus Prime! 👾
 Toughs: I think that are advanced, so I'm going back to the basics
 
-<image src="./img/0001.jpg">
+<image src="./../img/0001.jpg">
 
 ## Day 2 - 30/10/2016 - Monday - near 00:00 of 01/10/2016
 Installed miniconda on unbutu on VirtualBox, I did a simple example with KNN(setorsis and kurtosis).

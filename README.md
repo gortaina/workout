@@ -6,7 +6,7 @@
 TopCoder, codility
 
 ## 27/10/2019 
-I learned that´s isn´t produtive keep two track of 100DaysOfXXX, for review is good but for day-code-day is not good, much replicate code.
+I learned that´s isn´t produtive keep two tracks of 100DaysOfXXX, for review is good but for day-code-day is not good, much replicate code.
 Soo, I keep one track for all separate by tag.
 
 

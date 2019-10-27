@@ -102,7 +102,9 @@ toughs - raining here.
 ## Day 11/101 - 09/10/2019 - Wednesday - nigth
 No code today, just try read a little and listen this funny music toughs - this old book doesn´t have any line of code at all! Just math. The cat´s name is MIA. https://youtu.be/mB5vc_OiQv8 #100DaysOfCode #100DaysOfMLCode
 
-[![Dev Life](https://github.com/ArquiteturaJoel/workout/blob/master/100DaysOfCode/img/2019-10-12_00-44-30.jpg)](https://www.youtube.com/watch?v=mB5vc_OiQv8)
+[![Dev Life](https://github.com/ArquiteturaJoel/workout/blob/master/img/2019-10-12_00-44-30.jpg)](https://www.youtube.com/watch?v=mB5vc_OiQv8)
+
+<image src="./../img/joelss.jpg">
 
 ## Day 10 -  08/10/2016 - Morning
 My Speaker about Machine Learning and developers community at Federal General Accounting Office (TCU - Brazil)

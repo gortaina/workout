@@ -112,6 +112,7 @@ toughs - this old book doesn´t have any line of code at all! Just math. The cat
 https://youtu.be/mB5vc_OiQv8
 #100DaysOfCode #100DaysOfMLCode
 <img src="./../img/2019-10-12_00-44-30.jpg">
+<img src="./../img/joelss.jpg">
 
 ## Day 10 -  08/10/2019 - Tuesday - nigth
 Getting some labs on GCP

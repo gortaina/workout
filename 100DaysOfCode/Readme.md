@@ -12,7 +12,7 @@ DEVFest2019 by Google
 ## Day 27/104 -25/10/2019 - Friday - night
 3 in row! Marveloussssssss, first place again \o
 Cloud Hero One World Warm up: Development Arena
-ðŸ¬Overflowing  dopamine!!!ðŸ˜ âœˆâœˆâœˆ
+🐬Overflowing  dopamine!!!😍 ✈✈✈
 #100DaysOfMLCode #100DaysOfCode
 <image src="./../img/2019-10-25_22-53-10.jpg">
  

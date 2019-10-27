@@ -14,8 +14,7 @@ Cloud Hero One World Warm up: Development Arena<br>
 <image src="./../img/2019-10-25_22-53-10.jpg">
  
 ## Day 27/104 -25/10/2019 - Friday - day
-I get the first place again! Cloud Hero: Kubernetes
-🚀🚀🚀
+I get the first place again! Cloud Hero: Kubernetes🚀🚀🚀
 <image src="./../img/2019-10-24_13-02-23.jpg">
 #100DaysOfMLCode #100DaysOfCode
  
@@ -26,7 +25,7 @@ Dopamine ? FULLLY!
 #100DaysOfMLCode #100DaysOfCode
 
 ## Day 25/104 -23/10/2019- Wednesday
-Studying the zaproxy, a tool for test vulnerabilities on app´s, check in:
+Studying the zaproxy, a tool for test vulnerabilities on app's, check in:
 https://github.com/ArquiteturaJoel/zaproxy
 Toughs - My computer recovered, only the basics like chrome, bookmark, extensions, sessions
 #100DaysOfMLCode #100DaysOfCode
@@ -64,15 +63,18 @@ I did some exercises on GCP
 #100DaysOfMLCode #100DaysOfCode
 
 ## Day 17/102 -  15/10/2019 - Tuesday
-Doctor says that I had a burnout crisis, 
-must stay 10 days in house, but a can do coding for fun.
-Happy end 0/ I think, 🤪
+Doctor says that I had a burnout crisis,
+must stay 10 days in house,
+but a can do coding for fun. 
+Happy end 0/ I think, 🤪 
 #100DaysOfMLCode #100DaysOfCode
 
 ## Day 16/102 -  14/10/2019 - Monday
-My boss doesn't let me programming. WHAT!😱😱
-He said programming is not welcome there, that I should be service desk only(my contract doesn't have that)
-It´s affected me deeply, I had a crisis attack. I´ll need a Doctor. :🥺😥
+My boss doesn't let me programming. WHAT!😱😱 <br>
+He said programming is not welcome there, <br>
+that I should be service desk only(my contract doesn't have that) <br>
+It´s affected me deeply, I had a crisis attack. <br>
+I´ll need a Doctor. 🥺😥  <br>
 #100DaysOfMLCode #100DaysOfCode
 
 ## Day 15/101 -  13/10/2019 - Sunday- afternoon
@@ -100,7 +102,7 @@ toughs - raining here.
 #100DaysOfMLCode
 
 ## Day 11/101 - 09/10/2019 - Wednesday - nigth
-No code today, just try read a little and listen this funny music toughs - this old book doesn´t have any line of code at all! Just math. The cat´s name is MIA. https://youtu.be/mB5vc_OiQv8 #100DaysOfCode #100DaysOfMLCode
+No code today, just try read a little and listen this funny music toughs - this old book doesnÂ´t have any line of code at all! Just math. The catÂ´s name is MIA. https://youtu.be/mB5vc_OiQv8 #100DaysOfCode #100DaysOfMLCode
 
 [![Dev Life](https://github.com/ArquiteturaJoel/workout/blob/master/img/2019-10-12_00-44-30.jpg)](https://www.youtube.com/watch?v=mB5vc_OiQv8)
 
@@ -108,7 +110,7 @@ No code today, just try read a little and listen this funny music toughs - this 
 
 ## Day 10 -  08/10/2016 - Morning
 My Speaker about Machine Learning and developers community at Federal General Accounting Office (TCU - Brazil)
-Toughs -Full Dopamine !!!🚀🚀🚀
+Toughs -Full Dopamine !!!ðŸš€ðŸš€ðŸš€
 #100DaysOfMLCode
 
 ## Day 9 -  07/10/2016 - Dawn
@@ -122,14 +124,14 @@ Toughs - I need more dopamine or need to rest? KKKK
 ## Day 7 -  05/10/2016 - Saturday
 Lesson 01 on Schools of AI - ML
 
-Toughs - It´s not easy follow two headlines.
+Toughs - ItÂ´s not easy follow two headlines.
  #100DaysOfCode and #100DaysOfMLCode
 
 ## Day 6 - 04/10/2016 - Friday 
 Taking first day course on Vidhyia - Python
 
 ## Day 5 - 03/10/2016 - Thursday
-Takings of 1º notebook from fast.ai
+Takings of 1Âº notebook from fast.ai
 https://course.fast.ai/videos/?lesson=1
  
 <image src="./../img/palestra_tcu_nlp2019.jfif">
@@ -138,7 +140,7 @@ https://course.fast.ai/videos/?lesson=1
 nothing - I needed finish my homeclass - linear algebra
 
 ## Day 3 - 01/10/2016 - Tuesday -near 00:00 of 02/10/2016
-NLP course - learning Transformer subject, may be I can get a Optimus Prime! 👾
+NLP course - learning Transformer subject, may be I can get a Optimus Prime! ðŸ‘¾
 Toughs: I think that are advanced, so I'm going back to the basics
 
 <image src="./../img/0001.jpg">

@@ -17,14 +17,13 @@ Cloud Hero One World Warm up: Development Arena<br>
 <image src="./../img/2019-10-25_22-53-10.jpg">
  
 ## Day 27/104 -25/10/2019 - Friday - day
-I get the first place again! Cloud Hero: Kubernetes<br>
-ðŸš€ðŸš€ðŸš€
+I get the first place again! Cloud Hero: Kubernetes 🚀🚀🚀<br>
 <image src="./../img/2019-10-24_13-02-23.jpg">
 #100DaysOfMLCode #100DaysOfCode
  
 ## Day 26/104 -24/10/2019 - Thursday - night
 After work many times on GCP, I get the first place in Cloud Hero: Machine Learning Serverles 1.0<br>
-Dopamine ? FULLLY!
+Dopamine ? FULLLY!<br>
 <image src="./../img/2019-10-25_22-26-32.jpg">
 #100DaysOfMLCode #100DaysOfCode
 
@@ -66,10 +65,17 @@ I did some exercises on GCP
 #100DaysOfMLCode #100DaysOfCode
 
 ## Day 17/102 - 15/10/2019 - Tuesday
-Doctor says that I had a burnout crisis, must stay 10 days in house, but a can do coding for fun. Happy end 0/ I think, 🤪 #100DaysOfMLCode #100DaysOfCode
+Doctor says that I had a burnout crisis, must stay 10 days in house, but a can do coding for fun. 
+Happy end 0/ I think, 🤪 
+#100DaysOfMLCode #100DaysOfCode
 
 ## Day 16/102 - 14/10/2019 - Monday
-My boss doesn't let me programming. WHAT!😱😱 He said programming is not welcome there, that I should be service desk only(my contract doesn't have that) It´s affected me deeply, I had a crisis attack. I´ll need a Doctor. 🥺😥 #100DaysOfMLCode #100DaysOfCode
+My boss doesn't let me programming. WHAT!😱😱 <br>
+He said programming is not welcome there, <br>
+that I should be service desk only(my contract doesn't have that) <br>
+It´s affected me deeply, I had a crisis attack. <br>
+I´ll need a Doctor. 🥺😥  <br>
+#100DaysOfMLCode #100DaysOfCode
 
 ## Day 15/101 -  13/10/2019 - Sunday - day
 This page is amazing, about pathfindind algorithm

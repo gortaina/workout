@@ -5,7 +5,7 @@ Getting some practive on github, pullrequest´s, rebase, making mistakes for fun
 
 #100DaysOfMLCode 
 #100DaysOfCode
-
+<image src="./../img/aaaaaagiphy.gif">
 
 ## Day 28/104 - 26/10/2019 - Sartuday - day
 DEVFest2019 by Google<br>

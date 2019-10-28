@@ -1,5 +1,17 @@
 ### 100DaysOfCode
 
+
+
+## Day 30/104 - 28/10/2019 - Monday - day
+Make my first contribution for https://github.com/twilio-labs/open-pixel-art
+Keep practice!
+<br>
+#100DaysOfMLCode 
+#100DaysOfCode
+#Hacktoberfest
+<br>
+<image src="./../img/2019-10-28_13-01-43.jpg">
+
 ## Day 29/104 - 27/10/2019 - Sunday - day/night
 Getting some practive on github, pullrequest´s, rebase, making mistakes for fun(delete project´s, mess merges, brach´s commit error´s) and learning.<br>
 #100DaysOfMLCode 

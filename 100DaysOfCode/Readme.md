@@ -1,5 +1,11 @@
 ### 100DaysOfCode
 
+## Day 29/104 - 27/10/2019 - Sunday - day/night
+Getting some practive on github, pullrequest´s, rebase, making mistakes for fun(delete project´s, mess merges, brach´s commit error´s) and learning.<br>
+
+#100DaysOfMLCode 
+#100DaysOfCode
+
 
 ## Day 28/104 - 26/10/2019 - Sartuday - day
 DEVFest2019 by Google<br>

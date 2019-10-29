@@ -1,7 +1,7 @@
 ### 100DaysOfCode
 
 
-## Day 32/104 - 29/10/2019 - Tuesday - day
+## Day 31/104 - 29/10/2019 - Tuesday - day
 Make contributions for github repositories<br>
 Python, C and Java.
 I´m like do this, get the issues and make pull request´s

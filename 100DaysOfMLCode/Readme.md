@@ -1,9 +1,14 @@
 ### #100DaysOfMLCode
 
 ## Day 31/104 - 29/10/2019 - Tuesday - day
-AWS DeepCar algorithm<br>
-#100DaysOfMLCode 
+Make contributions for github repositories<br>
+Python, C and Java.
+I´m like do this, get the issues and make pull request´s
+Keep practice!
+<br>
 #100DaysOfCode
+#Hacktoberfest
+<br>
 
 
 ## Day 30/104 - 28/10/2019 - Monday - day

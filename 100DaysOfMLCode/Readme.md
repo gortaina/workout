@@ -1,7 +1,7 @@
 ### #100DaysOfMLCode
 
 ## Day 31/104 - 29/10/2019 - Tuesday - day
-AWS DeepCar algorithm
+AWS DeepCar algorithm<br>
 #100DaysOfMLCode 
 #100DaysOfCode
 

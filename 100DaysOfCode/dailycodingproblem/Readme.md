@@ -1,4 +1,5 @@
 ### Code trainning, just for fun
 an folder for java
-an forlder for python
-an forlder for javascript
+an folder for python
+an folder for javascript
+an folder for libs

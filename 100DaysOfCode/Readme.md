@@ -1,6 +1,15 @@
 ### 100DaysOfCode
 
 
+## Day 32/104 - 29/10/2019 - Tuesday - day
+Make contributions for github repositories<br>
+Python, C and Java.
+I´m like do this, get the issues and make pull request´s
+Keep practice!
+<br>
+#100DaysOfCode
+#Hacktoberfest
+<br>
 
 ## Day 30/104 - 28/10/2019 - Monday - day
 Make my first contribution for https://github.com/twilio-labs/open-pixel-art<br>

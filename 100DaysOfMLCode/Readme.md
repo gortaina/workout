@@ -1,5 +1,15 @@
 ### #100DaysOfMLCode
 
+## Day 32/104 - 30/10/2019 - Wednesday - day
+Updating my ML model in AWS Deep Racing<br>
+Keep practice!
+<br>
+#100DaysOfCode
+#100DaysOfMLCode 
+#AWSDeepRacer
+<br>
+<image src="./../img/deepracer-reinvent-chrome-udacity-medium.png">
+
 ## Day 31/104 - 29/10/2019 - Tuesday - day
 Make contributions for github repositories<br>
 Python, C and Java.

@@ -1,5 +1,11 @@
 ### 100DaysOfCode
 
+## Day 33/104 - 31/10/2019 - Thursday - day
+Learning the basis again tree, trie, n-tree, patricia, so on.
+https://www.geeksforgeeks.org/trie-insert-and-search/
+#100DaysOfCode
+#100DaysOfMLCode 
+
 ## Day 32/104 - 30/10/2019 - Wednesday - day
 Updating my ML model in AWS Deep Racing<br>
 Keep practice!

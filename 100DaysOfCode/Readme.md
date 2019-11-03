@@ -1,5 +1,15 @@
 ### 100DaysOfCode
 
+## Day 35/104 - 02/11/2019 - Saturday - day
+Getting qwiklab´s and sciende dataset to BigQuery
+#100DaysOfCode
+#100DaysOfMLCode 
+
+## Day 34/104 - 01/11/2019 - Friday - day
+Making a app with ReactNative
+#100DaysOfCode
+#100DaysOfMLCode 
+
 ## Day 33/104 - 31/10/2019 - Thursday - day
 Learning the basis again tree, trie, n-tree, patricia, so on.
 https://www.geeksforgeeks.org/trie-insert-and-search/

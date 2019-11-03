@@ -1,5 +1,10 @@
 ### #100DaysOfMLCode
 
+## Day 36/104 - 03/11/2019 - Monday - day
+Getting some exercises  on freecodecamp and udacity
+#100DaysOfCode
+#100DaysOfMLCode 
+
 ## Day 35/104 - 02/11/2019 - Saturday - day
 Getting qwiklab´s and sciende dataset to BigQuery
 #100DaysOfCode

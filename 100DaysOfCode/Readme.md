@@ -1,4 +1,19 @@
 ### 100DaysOfCode
+Microsoft Power BI para Data Science
+
+
+## Day 39/104 - 06/11/2019 - Wednesday - day
+Hello World with PowerApp from Microsoft
+#100DaysOfCode
+#100DaysOfMLCode 
+
+## Day 38/104 - 05/11/2019 - Tuesday - day
+Finished a ReactNative app, thanks #RockSeat
+<image src="./../img/1_lhkCOodCMZ0-hjjjjkhjk.png">
+#100DaysOfCode
+#100DaysOfMLCode 
+
+
 
 ## Day 37/104 - 04/11/2019 - Monday - day
 Thank you Hacktoberfest 2019 ! For learning how contribute to community

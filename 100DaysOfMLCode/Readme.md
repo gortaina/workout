@@ -1,5 +1,16 @@
 ### #100DaysOfMLCode
 
+## Day 39/104 - 06/11/2019 - Wednesday - day
+Hello World with PowerApp from Microsoft
+#100DaysOfCode
+#100DaysOfMLCode 
+
+## Day 38/104 - 05/11/2019 - Tuesday - day
+Finished a ReactNative app, thanks #RockSeat
+<image src="./../img/1_lhkCOodCMZ0-hjjjjkhjk.png">
+#100DaysOfCode
+#100DaysOfMLCode 
+ 
 ## Day 36/104 - 03/11/2019 - Monday - day
 Getting some exercises  on freecodecamp and udacity
 #100DaysOfCode

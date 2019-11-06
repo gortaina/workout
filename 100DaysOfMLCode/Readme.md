@@ -6,7 +6,7 @@ Hello World with PowerApp from Microsoft
 #100DaysOfMLCode 
 
 ## Day 38/104 - 05/11/2019 - Tuesday - day
-Finished a ReactNative app, thanks #RockSeat
+Finished a ReactNative app, thanks #rocketseat
 <image src="./../img/1_lhkCOodCMZ0-hjjjjkhjk.png">
 #100DaysOfCode
 #100DaysOfMLCode 

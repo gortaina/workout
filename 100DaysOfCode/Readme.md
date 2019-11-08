@@ -1,7 +1,7 @@
 ### 100DaysOfCode
 Microsoft Power BI para Data Science
 
-## Day 40/104 - 07/11/2019 - Wednesday - day
+## Day 40/104 - 07/11/2019 - Thursday - day
 Coding interview training in notepad, wow, this is true chalenge!
 #100DaysOfCode
 #100DaysOfMLCode 

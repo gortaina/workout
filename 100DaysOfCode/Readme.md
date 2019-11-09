@@ -1,7 +1,7 @@
 ### 100DaysOfCode
 Microsoft Power BI para Data Science
 
-## Day 42/104 - 09/11/2019 - Thursday - day
+## Day 42/104 - 09/11/2019 - Saturday - day
 Making anohter app in React, to get more skill, get the done, to get faster!
 #100DaysOfCode
 #100DaysOfMLCode 

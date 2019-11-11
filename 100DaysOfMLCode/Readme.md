@@ -1,5 +1,11 @@
 ### #100DaysOfMLCode
 
+## Day 43/104 - 10/11/2019 - Sunday - day
+Studying statistics on python
+#100DaysOfCode
+#100DaysOfMLCode 
+
+
 ## Day 42/104 - 09/11/2019 - Saturday - day
 Making anohter app in React, to get more skill, get the done, to get faster!
 #100DaysOfCode

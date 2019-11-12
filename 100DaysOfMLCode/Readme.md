@@ -1,5 +1,17 @@
 ### #100DaysOfMLCode
 
+
+## Day 45/104 - 12/11/2019 - Tuesday - day
+Machine Learning exercises
+#100DaysOfCode
+#100DaysOfMLCode 
+
+
+## Day 44/104 - 11/11/2019 - Monday - day
+FreeCodeCamp exercises
+#100DaysOfCode
+#100DaysOfMLCode 
+
 ## Day 43/104 - 10/11/2019 - Sunday - day
 Studying statistics on python
 #100DaysOfCode

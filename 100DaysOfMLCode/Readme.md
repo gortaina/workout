@@ -1,5 +1,18 @@
 ### #100DaysOfMLCode
 
+## Day 47/104 - 14/11/2019 - Thursday - day
+Getting all excel files in M language, bye Macros.
+Is there a better way to get excell data an put in a database and make a app? Sugestions ? PowerApp, PowerPIVOT? No macros ok, no macros.
+
+#100DaysOfCode
+#100DaysOfMLCode 
+
+## Day 46/104 - 13/11/2019 - Wednesday - day
+PowerQuery on Excel 2016, I learned that you need a KB4462115 update for unlock features:
+excel2016-kb4462115-fullfile-x64-glb.exe download and install
+#100DaysOfCode
+#100DaysOfMLCode 
+
 ## Day 45/104 - 12/11/2019 - Tuesday - day
 Machine Learning exercises
 #100DaysOfCode

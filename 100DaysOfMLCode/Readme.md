@@ -1,5 +1,24 @@
 ### #100DaysOfMLCode
 
+
+## Day 50/105 - 19/11/2019 - Tuesday -day
+Power Query continue
+#100DaysOfCode
+#100DaysOfMLCode
+
+
+## Day 49/106 - 18/11/2019 - Monday -day
+Power Query continue
+#100DaysOfCode
+#100DaysOfMLCode
+
+
+## Day 48/106 - 17/11/2019 - Sunday -day
+Power Query continue
+#100DaysOfCode
+#100DaysOfMLCode
+
+
 ## Day 49/105 - 16/11/2019 - Saturday - day
 Bad Day... My HD crash! I´m very sad, all my project´s was gone😠😡🤬😫😖😭😭😭😭😭😭, the HD crashed on backup! ON BACKUP! 
 I´m Struggled! 

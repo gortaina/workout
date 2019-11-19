@@ -1,20 +1,18 @@
 ### #100DaysOfMLCode
 
 
-## Day 50/105 - 19/11/2019 - Tuesday -day
-Power Query continue
+## Day 52/105 - 19/11/2019 - Tuesday -day
+My HD scratched 😭
+<image src="./../img/WhatsApp Image 2019-11-19 at 09.02.13.jpeg">
+
+## Day 51/105 - 18/11/2019 - Monday -day
+unmashed data on Power Query[2], I like that.
 #100DaysOfCode
 #100DaysOfMLCode
 
 
-## Day 49/106 - 18/11/2019 - Monday -day
-Power Query continue
-#100DaysOfCode
-#100DaysOfMLCode
-
-
-## Day 48/106 - 17/11/2019 - Sunday -day
-Power Query continue
+## Day 50/105 - 17/11/2019 - Sunday -day
+unmashed data on Power Query 
 #100DaysOfCode
 #100DaysOfMLCode
 

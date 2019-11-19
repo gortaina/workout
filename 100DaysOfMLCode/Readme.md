@@ -1,5 +1,14 @@
 ### #100DaysOfMLCode
 
+## Day 49/105 - 16/11/2019 - Saturday - day
+Bad Day... My HD crash! I´m very sad, all my project´s was gone😠😡🤬😫😖😭😭😭😭😭😭, the HD crashed on backup! ON BACKUP! 
+I´m Struggled! 
+
+## Day 48/104 - 15/11/2019 - Friday -day
+Power Query continue
+#100DaysOfCode
+#100DaysOfMLCode
+
 ## Day 47/104 - 14/11/2019 - Thursday - day
 Getting all excel files in M language, bye Macros.
 Is there a better way to get excell data an put in a database and make a app? Sugestions ? PowerApp, PowerPIVOT? No macros ok, no macros.

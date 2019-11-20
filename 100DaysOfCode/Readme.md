@@ -2,7 +2,7 @@
 Microsoft Power BI para Data Science
 https://www.youtube.com/watch?v=NYbNeNl6eAk
 
-## Day 53/105 - 20/11/2019 - Wednesday -day
+## Day 53/105 - 20/11/2019 - Wednesday - dawn
 Meetup - AI with PyTorch by  Developer Circles from Facebook
 <image src="./../img/194c9164-2540-45a0-b5e8-94fb6da424f9.jfif">
  #100DaysOfCode

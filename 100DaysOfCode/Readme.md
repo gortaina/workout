@@ -2,6 +2,37 @@
 Microsoft Power BI para Data Science
 https://www.youtube.com/watch?v=NYbNeNl6eAk
 
+## Day 53/105 - 20/11/2019 - Wednesday -day
+Meetup - AI with PyTorch by  Developer Circles from Facebook
+<image src="./../img/194c9164-2540-45a0-b5e8-94fb6da424f9.jfif">
+ #100DaysOfCode
+#100DaysOfMLCode
+
+## Day 52/105 - 19/11/2019 - Tuesday -day
+My HD scratched 😭
+<image src="./../img/WhatsApp Image 2019-11-19 at 09.02.13.jpeg">
+
+## Day 51/105 - 18/11/2019 - Monday -day
+unmashed data on Power Query[2], I like that.
+#100DaysOfCode
+#100DaysOfMLCode
+
+
+## Day 50/105 - 17/11/2019 - Sunday -day
+unmashed data on Power Query 
+#100DaysOfCode
+#100DaysOfMLCode
+
+
+## Day 49/105 - 16/11/2019 - Saturday - day
+Bad Day... My HD crash! I´m very sad, all my project´s was gone😠😡🤬😫😖😭😭😭😭😭😭, the HD crashed on backup! ON BACKUP! 
+I´m Struggled! 
+
+## Day 48/104 - 15/11/2019 - Friday -day
+Power Query continue
+#100DaysOfCode
+#100DaysOfMLCode
+ 
 ## Day 47/104 - 14/11/2019 - Thursday - day
 Getting all excel files in M language, bye Macros.
 Is there a better way to get excell data an put in a database and make a app? Sugestions ? PowerApp, PowerPIVOT? No macros ok, no macros.

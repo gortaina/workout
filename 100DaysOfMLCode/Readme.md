@@ -2,8 +2,9 @@
 
 ## Day 53/105 - 20/11/2019 - Wednesday -day
 Meetup - AI with PyTorch by  Developer Circles from Facebook
-<image src="./../img/WhatsApp Image 2019-11-19 at 09.02.13.jpeg">
- 
+<image src="./../img/194c9164-2540-45a0-b5e8-94fb6da424f9.jfif">
+ #100DaysOfCode
+#100DaysOfMLCode
 
 ## Day 52/105 - 19/11/2019 - Tuesday -day
 My HD scratched 😭

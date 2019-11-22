@@ -1,5 +1,13 @@
 ### #100DaysOfMLCode
 
+
+## Day 53/105 - 21/11/2019 - Thursday - night
+Functional Language is powerfull, I had to change my mindset for use it with better results, I remake three times, now is easy to understanding and had good performance.
+ #100DaysOfCode
+#100DaysOfMLCode
+
+
+ 
 ## Day 53/105 - 20/11/2019 - Wednesday -dawn
 Meetup - AI with PyTorch by  Developer Circles from Facebook
 <image src="./../img/194c9164-2540-45a0-b5e8-94fb6da424f9.jfif">

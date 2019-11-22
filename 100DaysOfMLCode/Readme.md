@@ -2,9 +2,10 @@
 
 
 ## Day 53/105 - 21/11/2019 - Thursday - night
-Functional Language is powerfull, I had to change my mindset for use it with better results, I remake three times, now is easy to understanding and had good performance.
+Functional Language is powerfull, I had to change my mindset for use it with better results, I remake a project three times !!! Now is easy to understanding and had good performance.
  #100DaysOfCode
 #100DaysOfMLCode
+
 
 
  

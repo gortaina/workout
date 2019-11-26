@@ -1,7 +1,14 @@
 ### #100DaysOfMLCode
 
 ## Day 53/105 - 25/11/2019 - Monday - night
-Functional Language is powerfull, I had to change my mindset for use it with better results, I remake a project three times !!! Now is easy to understanding and had good performance.
+At the request of an NGO, which had its infrastructure destroyed by lightning, it pulverized the telephone exchange.
+. 
+After cleaning the rack, servicing the servers / switches / consoles, replacing the UPS's batteries and redoing the network, as well as removing all the soot, the equipment was restored and returned to operation.
+. 
+I did the entire service free of charge and even offered advice for them to use Google Cloud. 
+.
+Note: Dell's Power Edge server has withstood the fire! Same with the melted plastic parts. Wow! . hashtag #HelpYourHONG hashtag #ServiceVolunteer
+<image src="./../IMG_20191123_143007804.jpg">
  #100DaysOfCode
 #100DaysOfMLCode
 
@@ -11,9 +18,11 @@ Dart is Vader!! Flutter is seem a mess java+javascript+"Buullleerr!"
 #100DaysOfMLCode
 
 ## Day 56/105 - 23/11/2019 - Saturday - night
-Learning Flutter
+Learning Flutter at Novatics
 #100DaysOfCode
 #100DaysOfMLCode
+
+<image src="./../kkk0.jpg">
 
 ## Day 55/105 - 22/11/2019 - Friday - night
 Dynamics tables on power query

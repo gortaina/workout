@@ -3,12 +3,53 @@ Microsoft Power BI para Data Science
 https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 
-## Day 53/105 - 21/11/2019 - Thursday - night
-Functional Language is powerfull, I had to change my mindset for use it with better results, I remake a project three times !!! Now is easy to understanding and had good performance.
- #100DaysOfCode
+
+## Day 59/105 - 26/11/2019 - Tuesday - dawn
+
+
+
+## Day 58/105 - 25/11/2019 - Monday - night
+ At the request of an NGO, which had its infrastructure destroyed by lightning, I did the entire service for recovery infrastructure free of charge. 
+.
+Helping others is good for you!
+#100DaysOfCode
+#volunteer 
+
+At the request of an NGO, which had its infrastructure destroyed by lightning, it pulverized the telephone exchange.
+. 
+After cleaning the rack, servicing the servers / switches / consoles, replacing the UPS's batteries and redoing the network, as well as removing all the soot, the equipment was restored and returned to operation.
+. 
+I did the entire service free of charge and even offered advice for them to use Google Cloud. 
+.
+Note: Dell's Power Edge server has withstood the fire! Same with the melted plastic parts. Wow! .
+#HelpYourNGO #ServiceVolunteer
+#100DaysOfCode
+#100DaysOfMLCode
+
+<image src="./../img/IMG_20191123_143007804.jpg">
+
+## Day 57/105 - 24/11/2019 - Sunday - night
+Dart is Vader!! Flutter is seem a mess java+javascript+"Buullleerr!"
+#100DaysOfCode
+#100DaysOfMLCode
+
+## Day 56/105 - 23/11/2019 - Saturday - night
+Learning Flutter at Novatics
+#100DaysOfCode
+#100DaysOfMLCode
+
+<image src="./../img/kkk0.jpg">
+
+## Day 55/105 - 22/11/2019 - Friday - night
+Dynamics tables on power query
+#100DaysOfCode
 #100DaysOfMLCode
 
 
+## Day 54/105 - 21/11/2019 - Thursday - night
+Functional Language is powerfull, I had to change my mindset for use it with better results, I remake a project three times !!! Now is easy to understanding and had good performance.
+ #100DaysOfCode
+#100DaysOfMLCode
 
 ## Day 53/105 - 20/11/2019 - Wednesday - dawn
 Meetup - AI with PyTorch by  Developer Circles from Facebook

@@ -1,13 +1,29 @@
 ### #100DaysOfMLCode
 
+## Day 53/105 - 25/11/2019 - Monday - night
+Functional Language is powerfull, I had to change my mindset for use it with better results, I remake a project three times !!! Now is easy to understanding and had good performance.
+ #100DaysOfCode
+#100DaysOfMLCode
+
+## Day 53/105 - 24/11/2019 - Sunday - night
+Dart is Vader! AAAHHHH! Flutter is seem a mess java+javascript+"Buullleerr!"
+#100DaysOfCode
+#100DaysOfMLCode
+
+## Day 53/105 - 23/11/2019 - Saturday - night
+Learning Flutter
+#100DaysOfCode
+#100DaysOfMLCode
+
+## Day 53/105 - 22/11/2019 - Friday - night
+Dynamics tables on power query
+#100DaysOfCode
+#100DaysOfMLCode
 
 ## Day 53/105 - 21/11/2019 - Thursday - night
 Functional Language is powerfull, I had to change my mindset for use it with better results, I remake a project three times !!! Now is easy to understanding and had good performance.
  #100DaysOfCode
 #100DaysOfMLCode
-
-
-
  
 ## Day 53/105 - 20/11/2019 - Wednesday -dawn
 Meetup - AI with PyTorch by  Developer Circles from Facebook

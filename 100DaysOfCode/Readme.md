@@ -25,8 +25,8 @@ Note: Dell's Power Edge server has withstood the fire! Same with the melted plas
 #HelpYourNGO #ServiceVolunteer
 #100DaysOfCode
 #100DaysOfMLCode
+<image src="./../img/kkk0.jpg">
 
-<image src="./../img/IMG_20191123_143007804.jpg">
 ## Day 59/105 - 26/11/2019 - Tuesday - dawn
 
 
@@ -49,7 +49,7 @@ Note: Dell's Power Edge server has withstood the fire! Same with the melted plas
 #100DaysOfCode
 #100DaysOfMLCode
 
-<image src="./../img/kkk0.jpg">
+<image src="./../img/IMG_20191123_143007804.jpg">
 
 ## Day 57/105 - 24/11/2019 - Sunday - night
 Dart is Vader!! Flutter is seem a mess java+javascript+"Buullleerr!"

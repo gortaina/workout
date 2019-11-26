@@ -8,9 +8,9 @@ After cleaning the rack, servicing the servers / switches / consoles, replacing 
 I did the entire service free of charge and even offered advice for them to use Google Cloud. 
 .
 Note: Dell's Power Edge server has withstood the fire! Same with the melted plastic parts. Wow! . hashtag #HelpYourHONG hashtag #ServiceVolunteer
-<image src="./../IMG_20191123_143007804.jpg">
- #100DaysOfCode
+#100DaysOfCode
 #100DaysOfMLCode
+<image src="./../IMG_20191123_143007804.jpg">
 
 ## Day 57/105 - 24/11/2019 - Sunday - night
 Dart is Vader!! Flutter is seem a mess java+javascript+"Buullleerr!"
@@ -21,7 +21,6 @@ Dart is Vader!! Flutter is seem a mess java+javascript+"Buullleerr!"
 Learning Flutter at Novatics
 #100DaysOfCode
 #100DaysOfMLCode
-
 <image src="./../kkk0.jpg">
 
 ## Day 55/105 - 22/11/2019 - Friday - night

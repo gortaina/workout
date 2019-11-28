@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 ## Day 59/105 - 26/11/2019 - Tuesday - night
 My devops lessone today.
-<image src="./../img/001921ad-2afd-49f2-9219-fa58082417e9.jfif>
+<image src="./../img/001921ad-2afd-49f2-9219-fa58082417e9.jfif">
 #100DaysOfCode
 #100DaysOfMLCode
             

@@ -11,12 +11,17 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 
 ## Day 60/105 - 27/11/2019 - Wednesday - day
+My second devops lesson today, without net, without cloud. 
+Let´s crimp this.
+<image src="./../img/1ecfa5af-4a0f-42aa-96cb-ffeb6308b352.jpg">
+#100DaysOfCode
+#100DaysOfMLCode
 
 
 
 
 ## Day 59/105 - 26/11/2019 - Tuesday - night
-My devops lessone today.
+My devops lesson today.
 <image src="./../img/001921ad-2afd-49f2-9219-fa58082417e9.jfif">
 #100DaysOfCode
 #100DaysOfMLCode

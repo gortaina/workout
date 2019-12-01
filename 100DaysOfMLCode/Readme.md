@@ -1,8 +1,62 @@
 ### #100DaysOfMLCode
 
-## Day 59/105 - 26/11/2019 - Tuesday - dawn
 
 
+
+## Day 62/105 - 26/11/2019 - Friday - night
+
+
+## Day 61/105 - 28/11/2019 - Thursday - night
+
+
+## Day 60/105 - 27/11/2019 - Wednesday - day
+My second devops lesson today, without net, without cloud. 
+Let´s crimp this.
+<image src="./../img/1ecfa5af-4a0f-42aa-96cb-ffeb6308b352.jfif">
+#100DaysOfCode
+#100DaysOfMLCode
+
+
+
+
+## Day 59/105 - 26/11/2019 - Tuesday - night
+My devops lesson today.
+<image src="./../img/001921ad-2afd-49f2-9219-fa58082417e9.jfif">
+#100DaysOfCode
+#100DaysOfMLCode
+            
+
+## Day 58/105 - 25/11/2019 - Monday - night
+ At the request of an NGO, which had its infrastructure destroyed by lightning, I did the entire service for recovery infrastructure free of charge. 
+.
+Helping others is good for you!
+#100DaysOfCode
+#volunteer 
+
+At the request of an NGO, which had its infrastructure destroyed by lightning, it pulverized the telephone exchange.
+. 
+After cleaning the rack, servicing the servers / switches / consoles, replacing the UPS's batteries and redoing the network, as well as removing all the soot, the equipment was restored and returned to operation.
+. 
+I did the entire service free of charge and even offered advice for them to use Google Cloud. 
+.
+Note: Dell's Power Edge server has withstood the fire! Same with the melted plastic parts. Wow! .
+#HelpYourNGO #ServiceVolunteer
+#100DaysOfCode
+#100DaysOfMLCode
+
+<image src="./../img/IMG_20191123_143007804.jpg">
+
+## Day 57/105 - 24/11/2019 - Sunday - night
+Dart is Vader!! Flutter is seem a mess java+javascript+"Buullleerr!"
+#100DaysOfCode
+#100DaysOfMLCode
+
+## Day 56/105 - 23/11/2019 - Saturday - night
+Learning Flutter at Novatics
+#100DaysOfCode
+#100DaysOfMLCode
+
+<image src="./../img/IMG_20191123_143007804.jpg">
 
 ## Day 58/105 - 25/11/2019 - Monday - night
  At the request of an NGO, which had its infrastructure destroyed by lightning, I did the entire service for recovery infrastructure free of charge. 

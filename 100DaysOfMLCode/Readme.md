@@ -1,12 +1,26 @@
 ### #100DaysOfMLCode
 
 
+## Day 63/105 - 30/11/2019 - Saturday - night
+BlackFriday experience, I purrchased a data science course from DataScienceAcademy with 50% discount, well, I´ll had a long way to finish the courses: Vidhya, Udemy, Coursera, Udacity, Qwiklabs, Microsoft´s.  Does anyone have time to sell ? :):):)
+#100DaysOfCode
+#100DaysOfMLCode
 
 
-## Day 62/105 - 26/11/2019 - Friday - night
+## Day 62/105 - 29/11/2019 - Friday - night
+Finished a summarization of 400 excel´s files, powerquery I love you!
+Next, I need make a simple app for update this files, I know that use excel´s files as database is awful, I need a SIMPLE solution for this: mongo atlas ? The offer 500Mb free of charge, access ? Power App,s need googling this. The pre requel is no develop system is tradicional way(React, Angular, PHP,...), thinkg man, think!
+#100DaysOfCode
+#100DaysOfMLCode
+
 
 
 ## Day 61/105 - 28/11/2019 - Thursday - night
+Cloud OnBoard Application Development
+Qwiklabs \o
+
+#100DaysOfCode
+#100DaysOfMLCode
 
 
 ## Day 60/105 - 27/11/2019 - Wednesday - day

@@ -18,7 +18,7 @@ Next, I need make a simple app for update this files, I know that use excel´s f
 ## Day 61/105 - 28/11/2019 - Thursday - night
 Cloud OnBoard Application Development
 Qwiklabs \o
-
+<image src="./../img/saasdaimages.png">
 #100DaysOfCode
 #100DaysOfMLCode
 

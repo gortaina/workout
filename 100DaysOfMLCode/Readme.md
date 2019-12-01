@@ -3,6 +3,7 @@
 
 ## Day 63/105 - 30/11/2019 - Saturday - night
 BlackFriday experience, I purrchased a data science course from DataScienceAcademy with 50% discount, well, I´ll had a long way to finish the courses: Vidhya, Udemy, Coursera, Udacity, Qwiklabs, Microsoft´s.  Does anyone have time to sell ? :):):)
+<image src="./../img/2019-11-30_23-10-17.jpg">
 #100DaysOfCode
 #100DaysOfMLCode
 

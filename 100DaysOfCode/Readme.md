@@ -3,7 +3,7 @@ Microsoft Power BI para Data Science
 https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 
-## Day 65/105 - 02/12/2019-Monday
+## Day 65/106 - 02/12/2019-Monday
 Wife birthday, no code today! I love you Bee Verbena!
 #100DaysOfCode #BeeVerbena
 #100DaysOfMLCode

@@ -3,6 +3,18 @@ Microsoft Power BI para Data Science
 https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 
+## Day 65/105 - 01/12/2019-Monday
+Wife birthday, no code today!
+#100DaysOfCode
+#100DaysOfMLCode
+
+
+## Day 64/105 - 01/12/2019-Sunday
+Finished \o I know now how code a hello worl on the cloud! :)  🚀🚀🚀
+<image src="./../2019-12-02_20-32-26.jpg">
+#100DaysOfCode
+#100DaysOfMLCode
+
 
 ## Day 63/105 - 30/11/2019 - Saturday - night
 BlackFriday experience, I purrchased a data science course from DataScienceAcademy with 50% discount, well, I´ll had a long way to finish the courses: Vidhya, Udemy, Coursera, Udacity, Qwiklabs, Microsoft´s.  Does anyone have time to sell ? ⌛⌛⌛

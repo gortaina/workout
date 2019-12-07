@@ -10,23 +10,25 @@ Excel rules all!
 <image src="./../img/WhatsApp Image 2019-12-06 at 23.14.39.jpeg">
 
 
-## Day 69/106 - 06/12/2019-Friday
+## Day 69/107 - 06/12/2019-Friday
 I´m doing some qwiklabs, kubernetes
 #100DaysOfCode
 #100DaysOfMLCode
 <image src="./../img/j9Utrvl.jpg">
 
-## Day 68/106 - 05/12/2019-Thursday
+## Day 68/107 - 05/12/2019-Thursday
+No code today, I need sleep and dreaming
 #100DaysOfCode
 #100DaysOfMLCode
-
+<image src="./../img/WhatsApp Image 2019-12-06 at 23.10.15.jpeg">
+            
 ## Day 67/107 - 04/12/2019-Wednesday
 Bad Day today, no code. :(
 #100DaysOfCode
 #100DaysOfMLCode
 <image src="./../img/WhatsApp Image 2019-12-06 at 23.10.15.jpeg">
 
-## Day 66/106 - 03/12/2019-Thuesay
+## Day 66/106 - 03/12/2019-Thuesday
 Dinner and code!
 #100DaysOfCode
 #100DaysOfMLCode

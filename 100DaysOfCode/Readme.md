@@ -16,7 +16,7 @@ I´m doing some qwiklabs, kubernetes
 #100DaysOfMLCode
 <image src="./../img/j9Utrvl.jpg">
 
-## Day 68/107 - 05/12/2019-Thursday
+## Day 68/108 - 05/12/2019-Thursday
 No code today, I need sleep and dreaming
 #100DaysOfCode
 #100DaysOfMLCode

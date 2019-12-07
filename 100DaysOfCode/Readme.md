@@ -28,7 +28,7 @@ Bad Day today, no code. :(
 #100DaysOfMLCode
 <image src="./../img/WhatsApp Image 2019-12-06 at 23.10.15.jpeg">
 
-## Day 66/106 - 03/12/2019-Thuesday - night
+## Day 66/106 - 03/12/2019-Tuesday - night
 Dinner and code!
 #100DaysOfCode
 #100DaysOfMLCode

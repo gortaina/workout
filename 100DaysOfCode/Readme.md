@@ -4,6 +4,10 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 kubectl get pods 
 
+Excel rules all! 
+#100DaysOfCode
+#100DaysOfMLCode
+<image src="./../img/WhatsApp Image 2019-12-06 at 23.14.39.jpeg">
 
 
 ## Day 69/106 - 06/12/2019-Friday
@@ -22,12 +26,11 @@ Bad Day today, no code. :(
 #100DaysOfMLCode
 <image src="./../img/WhatsApp Image 2019-12-06 at 23.10.15.jpeg">
 
-
 ## Day 66/106 - 03/12/2019-Thuesay
-Excel rules all! 
+Dinner and code!
 #100DaysOfCode
 #100DaysOfMLCode
-<image src="./../img/WhatsApp Image 2019-12-06 at 23.14.39.jpeg">
+<image src="./../img/20191203_204107.jpg">
 
 ## Day 65/106 - 02/12/2019-Monday
 Wife birthday, no code today! I love you Bee Verbena!

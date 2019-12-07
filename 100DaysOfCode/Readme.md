@@ -20,7 +20,7 @@ I´m doing some qwiklabs, kubernetes
 No code today, I need sleep and dreaming
 #100DaysOfCode
 #100DaysOfMLCode
-<image src="./../img/WhatsApp Image 2019-12-06 at 23.10.15.jpeg">
+<image src="./../img/images.jpg">
             
 ## Day 67/107 - 04/12/2019-Wednesday
 Bad Day today, no code. :(

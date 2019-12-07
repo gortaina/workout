@@ -2,6 +2,21 @@
 Microsoft Power BI para Data Science
 https://www.youtube.com/watch?v=NYbNeNl6eAk
 
+kubectl get pods 
+
+
+
+## Day 69/106 - 06/12/2019-Friday
+
+## Day 68/106 - 05/12/2019-Thursday
+
+
+## Day 67/106 - 04/12/2019-Wednesday
+
+
+## Day 66/106 - 03/12/2019-Thuesay
+
+
 
 ## Day 65/106 - 02/12/2019-Monday
 Wife birthday, no code today! I love you Bee Verbena!

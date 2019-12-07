@@ -7,15 +7,26 @@ kubectl get pods
 
 
 ## Day 69/106 - 06/12/2019-Friday
+I´m doing some qwiklabs, kubernetes
+#100DaysOfCode
+#100DaysOfMLCode
 
 ## Day 68/106 - 05/12/2019-Thursday
+#100DaysOfCode
+#100DaysOfMLCode
 
-
-## Day 67/106 - 04/12/2019-Wednesday
+## Day 67/107 - 04/12/2019-Wednesday
+Bad Day today, no code. :(
+<image src="./../img/WhatsApp Image 2019-12-06 at 23.14.39.jpeg">
+#100DaysOfCode
+#100DaysOfMLCode
 
 
 ## Day 66/106 - 03/12/2019-Thuesay
-
+Excel rules all! 
+#100DaysOfCode
+#100DaysOfMLCode
+<image src="./../img/WhatsApp Image 2019-12-06 at 23.10.15.jpeg">
 
 
 ## Day 65/106 - 02/12/2019-Monday

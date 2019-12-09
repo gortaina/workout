@@ -4,6 +4,19 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 kubectl get pods 
 
+## Day 72/108 - 09/12/2019-Monday
+Time to change, welcome SSD! Is it make me code faster ? KKKKKKK
+#100DaysOfCode
+#100DaysOfMLCode
+<image src="./../img/adfadsfa.jpeg">
+
+## Day 71/108 - 08/12/2019-Sunday
+CloudHero challenges, let's go due this on Cybercafe 
+#100DaysOfCode
+#100DaysOfMLCode
+<image src="./../img/adfadsf.jpeg">
+
+## Day 70/108 - 07/12/2019-Saturday
 Excel rules all! 
 #100DaysOfCode
 #100DaysOfMLCode

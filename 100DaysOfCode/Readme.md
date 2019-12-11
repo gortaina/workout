@@ -5,7 +5,10 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 kubectl get pods 
 
 ## Day 73/108 - 10/12/2019- Tuesday
-Doing coursera courses
+Retrospectiva 2019 - 1 de 5:
+Objetivos alcançados em 2019 com o Google Cloud:
+400 Laboratórios, 20 quests, 23 cursos, 15 campeonatos mundiais, 3 vezes consecutivas no 1º lugar. Pense num cara que levou o "Hello world" a sério.
+#100daysofcode
 #100DaysOfCode
 #100DaysOfMLCode
 

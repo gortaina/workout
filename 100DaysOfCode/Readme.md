@@ -4,6 +4,11 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 kubectl get pods 
 
+## Day 73/108 - 10/12/2019- Tuesday
+Doing coursera courses
+#100DaysOfCode
+#100DaysOfMLCode
+
 ## Day 72/108 - 09/12/2019-Monday
 Time to change, welcome SSD! Is it make me code faster ? KKKKKKK
 #100DaysOfCode

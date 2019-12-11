@@ -8,9 +8,11 @@ kubectl get pods
 Retrospectiva 2019 - 1 de 5:
 Objetivos alcançados em 2019 com o Google Cloud:
 400 Laboratórios, 20 quests, 23 cursos, 15 campeonatos mundiais, 3 vezes consecutivas no 1º lugar. Pense num cara que levou o "Hello world" a sério.
-#100daysofcode
 #100DaysOfCode
 #100DaysOfMLCode
+<image src="./../img/dfasdfasdfa.jpg">
+            
+
 
 ## Day 72/108 - 09/12/2019-Monday
 Time to change, welcome SSD! Is it make me code faster ? KKKKKKK

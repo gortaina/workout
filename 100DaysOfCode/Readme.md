@@ -103,7 +103,6 @@ Next, I need make a simple app for update this files, I know that use excel´s f
 #100DaysOfMLCode
 
 
-
 ## Day 61/105 - 28/11/2019 - Thursday - night
 Cloud OnBoard Application Development
 Qwiklabs \o

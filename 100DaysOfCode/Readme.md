@@ -7,6 +7,7 @@ kubectl get pods
 ## Day 74/108 - 12/12/2019- Thuersday
 Going to statistics, using covariance formula
 http://ci.columbia.edu/ci/premba_test/c0331/s7/s7_5.html
+<image src="./../img/3185031.jpg">
 #100DaysOfCode #Stats
 #100DaysOfMLCode
 

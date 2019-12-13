@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 kubectl get pods 
 
-## Day 74/108 - 12/12/2019- Thuersday
+## Day 74/108 - 12/12/2019- Thursday
 Going to statistics, using covariance formula
 http://ci.columbia.edu/ci/premba_test/c0331/s7/s7_5.html
 <image src="./../img/3185031.jpg">

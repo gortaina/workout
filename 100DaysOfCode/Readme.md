@@ -12,6 +12,7 @@ http://ci.columbia.edu/ci/premba_test/c0331/s7/s7_5.html
 
 ## Day 73/108 - 11/12/2019- Tuesday
 Go Flutter, I win a Dash 
+<image src="./../img/4c3fe0f1-1f06-4338-b629-a7d9d3112f03.jpg">
 #100DaysOfCode #AheadOfTime #Flutter
 #100DaysOfMLCode
 

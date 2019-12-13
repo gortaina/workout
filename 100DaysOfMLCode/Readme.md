@@ -1,5 +1,94 @@
 ### #100DaysOfMLCode
 
+### 100DaysOfCode
+Microsoft Power BI para Data Science
+https://www.youtube.com/watch?v=NYbNeNl6eAk
+
+kubectl get pods 
+
+## Day 74/108 - 12/12/2019- Thursday
+Going to statistics, using covariance formula
+http://ci.columbia.edu/ci/premba_test/c0331/s7/s7_5.html
+<image src="./../img/3185031.jpg">
+#100DaysOfCode #Stats
+#100DaysOfMLCode
+
+
+## Day 73/108 - 11/12/2019- Wednesday
+Go Flutter, I win a Dash 
+#100DaysOfCode #AheadOfTime #Flutter
+#100DaysOfMLCode
+<image src="./../img/4c3fe0f1-1f06-4338-b629-a7d9d3112f03.jpg">
+
+
+
+## Day 73/108 - 10/12/2019- Tuesday
+Retrospectiva 2019 - 1 de 5:
+Objetivos alcançados em 2019 com o Google Cloud:
+400 Laboratórios, 20 quests, 23 cursos, 15 campeonatos mundiais, 3 vezes consecutivas no 1º lugar. Pense num cara que levou o "Hello world" a sério.
+#100DaysOfCode
+#100DaysOfMLCode
+<image src="./../img/dfasdfasdfa.jpg">
+            
+
+
+## Day 72/108 - 09/12/2019-Monday
+Time to change, welcome SSD! Is it make me code faster ? KKKKKKK
+#100DaysOfCode
+#100DaysOfMLCode
+<image src="./../img/adfadsfa.jpeg">
+
+## Day 71/108 - 08/12/2019-Sunday
+CloudHero challenges, let's go due this on Cybercafe 
+#100DaysOfCode
+#100DaysOfMLCode
+<image src="./../img/adfadsf.jpeg">
+
+## Day 70/108 - 07/12/2019-Saturday
+Excel rules all! 
+#100DaysOfCode
+#100DaysOfMLCode
+<image src="./../img/WhatsApp Image 2019-12-06 at 23.14.39.jpeg">
+
+
+## Day 69/108 - 06/12/2019-Friday
+I´m doing some qwiklabs, kubernetes
+#100DaysOfCode
+#100DaysOfMLCode
+<image src="./../img/j9Utrvl.jpg">
+
+## Day 68/108 - 05/12/2019-Thursday
+No code today, I need sleep and dreaming
+#100DaysOfCode
+#100DaysOfMLCode
+<image src="./../img/images.jpg">
+            
+## Day 67/107 - 04/12/2019-Wednesday - day
+Bad Day today, no code. :(
+#100DaysOfCode
+#100DaysOfMLCode
+<image src="./../img/WhatsApp Image 2019-12-06 at 23.10.15.jpeg">
+
+## Day 66/106 - 03/12/2019-Tuesday - night
+Dinner and code!
+#100DaysOfCode
+#100DaysOfMLCode
+<image src="./../img/20191203_204107.jpg">
+
+## Day 65/106 - 02/12/2019-Monday
+Wife birthday, no code today! I love you Bee Verbena!
+#100DaysOfCode #BeeVerbena
+#100DaysOfMLCode
+https://www.beeverbena.com/
+<image src="./../img/Bee_verbena2.jpeg">
+
+
+## Day 64/105 - 01/12/2019-Sunday
+Finished \o I know now how code a hello worl on the cloud! 😂😂😂 🚀🚀🚀
+#100DaysOfCode
+#100DaysOfMLCode
+<image src="./../img/2019-12-02_20-32-26.jpg">
+            
 
 ## Day 63/105 - 30/11/2019 - Saturday - night
 BlackFriday experience, I purrchased a data science course from DataScienceAcademy with 50% discount, well, I´ll had a long way to finish the courses: Vidhya, Udemy, Coursera, Udacity, Qwiklabs, Microsoft´s.  Does anyone have time to sell ? ⌛⌛⌛

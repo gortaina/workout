@@ -4,6 +4,18 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 kubectl get pods 
 
+## Day 73/108 - 12/12/2019- Tuesday
+Go to statistics, using covariance formula
+http://ci.columbia.edu/ci/premba_test/c0331/s7/s7_5.html
+#100DaysOfCode #Stats
+#100DaysOfMLCode
+
+## Day 73/108 - 11/12/2019- Tuesday
+Go Flutter, I win a Dash 
+#100DaysOfCode #AheadOfTime #Flutter
+#100DaysOfMLCode
+
+
 ## Day 73/108 - 10/12/2019- Tuesday
 Retrospectiva 2019 - 1 de 5:
 Objetivos alcançados em 2019 com o Google Cloud:

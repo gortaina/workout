@@ -6,13 +6,14 @@ kubectl get pods
 
 
 
-## Day 79/108 - 17/12/2019- Tuesday
-Energy goes back! Go to coursera labs!
-
+## Day 76/112 - 17/12/2019- Tuesday
+Energy goes back for now! Go to coursera labs!
+#100DaysOfCode
+#100DaysOfMLCode
 
 ## Day 75/112 - 13/12/2019 to 16/12/2019
 No code in 4 days, without energy at night, yes this still is happen here. The transformer burst in fire in the picture near of my addres.
-#100DaysOfCode #Stats
+#100DaysOfCode
 #100DaysOfMLCode
 <image src="./../img/FOGO18.jpg">
 

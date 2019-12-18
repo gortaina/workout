@@ -7,7 +7,8 @@ kubectl get pods
 
 
 ## Day 76/112 - 17/12/2019- Tuesday
-Energy goes back for now! Go to coursera labs!
+Energy goes back for now! Go to coursera labs to setup a Minecraft server.
+<image src="./../img/2019-12-17_01-10-23.png">
 #100DaysOfCode
 #100DaysOfMLCode
 

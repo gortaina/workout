@@ -4,6 +4,18 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 kubectl get pods 
 
+
+
+## Day 79/108 - 17/12/2019- Tuesday
+Energy goes back! Go to coursera labs!
+
+
+## Day 75/112 - 13/12/2019 to 16/12/2019
+No code in 4 days, without energy at night, yes this still is happen here.
+#100DaysOfCode #Stats
+#100DaysOfMLCode
+
+
 ## Day 74/108 - 12/12/2019- Thursday
 Going to statistics, using covariance formula
 http://ci.columbia.edu/ci/premba_test/c0331/s7/s7_5.html

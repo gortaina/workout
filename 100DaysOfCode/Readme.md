@@ -11,9 +11,10 @@ Energy goes back! Go to coursera labs!
 
 
 ## Day 75/112 - 13/12/2019 to 16/12/2019
-No code in 4 days, without energy at night, yes this still is happen here.
+No code in 4 days, without energy at night, yes this still is happen here. The transformer burst in fire in the picture near of my addres.
 #100DaysOfCode #Stats
 #100DaysOfMLCode
+<image src="./../img/FOGO18.jpg">
 
 
 ## Day 74/108 - 12/12/2019- Thursday

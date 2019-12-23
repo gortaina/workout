@@ -5,6 +5,15 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 kubectl get pods 
 
 
+## Day 76/112 - 17/12/2019- Tuesday
+## Day 76/112 - 17/12/2019- Tuesday
+
+## Day 75/116 - 19/12/2019 to 22/12/2019
+No code in 4 days, again! Without power at night, let's see a YT Tech Lead video of a flashing 3G while the phone is charging inside the car. 
+
+
+## Day 77/112 - 18/12/2019- Tuesday
+Coursera Labs
 
 ## Day 76/112 - 17/12/2019- Tuesday
 Energy goes back for now! Go to coursera labs to setup a Minecraft server.

@@ -12,7 +12,8 @@ kubectl get pods
 No code in 4 days, again! Without power at night, let's see a YT Tech Lead video of a flashing 3G while the phone is charging inside the car. 
 #100DaysOfCode
 #100DaysOfMLCode
-[(http://i3.ytimg.com/vi/5Z-Pu-cndvk/hqdefault.jpg)](https://www.youtube.com/watch?v=5Z-Pu-cndvk)
+[![Rain!](http://i3.ytimg.com/vi/5Z-Pu-cndvk/hqdefault.jpg)](https://www.youtube.com/watch?v=5Z-Pu-cndvk)
+
 
             
 ## Day 77/112 - 18/12/2019- Tuesday
@@ -468,7 +469,7 @@ toughs - raining here.
 ## Day 11/101 -  09/10/2019 - Wednesday - nigth
 No code today, just try read a little and listen this funny music
 toughs - this old book doesn´t have any line of code at all! Just math. The cat´s name is MIA.
-[![Dev Life](https://img.youtube.com/vi/mB5vc_OiQv8/2019-10-12_00-44-30.jpg)](https://www.youtube.com/watch?v=mB5vc_OiQv8)
+[![Dev Life](https://github.com/ArquiteturaJoel/workout/blob/master/img/2019-10-12_00-44-30.jpg)](https://www.youtube.com/watch?v=mB5vc_OiQv8)
 #100DaysOfCode #100DaysOfMLCode
 
 ## Day 11 -  09/10/2019 - Wednesday - nigth

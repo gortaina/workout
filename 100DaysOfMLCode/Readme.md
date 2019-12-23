@@ -467,7 +467,7 @@ toughs - raining here.
 #100DaysOfMLCode
 
 ## Day 11/101 - 09/10/2019 - Wednesday - nigth
-No code today, just try read a little and listen this funny music toughs - this old book doesnÂ´t have any line of code at all! Just math. The catÂ´s name is MIA. https://youtu.be/mB5vc_OiQv8 #100DaysOfCode #100DaysOfMLCode
+No code today, just try read a little and listen this funny music toughs - this old book doesnÂ´t have any line of code at all! Just math. The cat´s name is MIA. https://youtu.be/mB5vc_OiQv8 #100DaysOfCode #100DaysOfMLCode
 
 [![Dev Life](https://github.com/ArquiteturaJoel/workout/blob/master/img/2019-10-12_00-44-30.jpg)](https://www.youtube.com/watch?v=mB5vc_OiQv8)
 

@@ -12,7 +12,7 @@ kubectl get pods
 No code in 4 days, again! Without power at night, let's see a YT Tech Lead video of a flashing 3G while the phone is charging inside the car. 
 #100DaysOfCode
 #100DaysOfMLCode
-(http://i3.ytimg.com/vi/5Z-Pu-cndvk/hqdefault.jpg)](https://www.youtube.com/watch?v=5Z-Pu-cndvk)
+[(http://i3.ytimg.com/vi/5Z-Pu-cndvk/hqdefault.jpg)](https://www.youtube.com/watch?v=5Z-Pu-cndvk)
 
             
 ## Day 77/112 - 18/12/2019- Tuesday

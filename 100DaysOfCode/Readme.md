@@ -10,8 +10,11 @@ kubectl get pods
 
 ## Day 75/116 - 19/12/2019 to 22/12/2019
 No code in 4 days, again! Without power at night, let's see a YT Tech Lead video of a flashing 3G while the phone is charging inside the car. 
-https://m.facebook.com/story.php?story_fbid=2808738039175535&id=137999706249395&anchor_composer=false
+#100DaysOfCode
+#100DaysOfMLCode
 
+https://video.fbsb9-1.fna.fbcdn.net/v/t42.9040-2/81556272_990774264648986_9027069461374435328_n.mp4?_nc_cat=111&efg=eyJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=-0Zy-lPb_f4AQnNC2Z9z6sYnofSCXcO7BdRCn045nKdGp8fp-hBZx4y5Q&_nc_ht=video.fbsb9-1.fna&oh=9865ae8f2b2a2209c32f7a6dfa370b42&oe=5E01067D
+            
 ## Day 77/112 - 18/12/2019- Tuesday
 Coursera Labs
 

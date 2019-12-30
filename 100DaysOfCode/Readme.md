@@ -5,8 +5,12 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 kubectl get pods 
 
 
-## Day 76/112 - 17/12/2019- Tuesday
-## Day 76/112 - 17/12/2019- Tuesday
+## Day 86/116 - 23/12/2019 to 30/12/2019
+Finish a Architecting with Google Compute Engine course in this week, theses labs are awesome!
+#100DaysOfCode
+#100DaysOfMLCode
+<image src="./../img/2019-12-30_15-15-22.png">
+
 
 ## Day 78/116 - 19/12/2019 to 22/12/2019
 No code in 4 days, again! Without power at night, let's see a YT Tech Lead video of a flashing 3G while the phone is charging inside the car. 

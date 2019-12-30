@@ -9,7 +9,7 @@ kubectl get pods
 Finish a Architecting with Google Compute Engine course in this week, theses labs are awesome!
 #100DaysOfCode
 #100DaysOfMLCode
-<image src="./../img/2019-12-30_15-15-22.png">
+<image  src="./../img/2019-12-30_15-15-22.png">
 
 
 ## Day 78/116 - 19/12/2019 to 22/12/2019

@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 kubectl get pods 
 
-## Day 77/112 - 18/12/2019- Tuesday
+## Day 87/116 - 31/12/2019- Tuesday - morning
 Focus on the new course! Get the IA Gems! Thank you Vidhya!
 #100DaysOfCode
 #100DaysOfMLCode

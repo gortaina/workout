@@ -4,10 +4,14 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 kubectl get pods 
 
-## Day 87/116 - 31/12/2019- Tuesday - morning
-Focus on the new course! Get the IA Gems! Thank you Vidhya!
+## Day 87/116 - 31/12/2019- Tuesday
+Focus on the new course! Get the IA Gems! Thank you Vidhya! Google! Coursera! FreeCodeCamp! Udacity! DSA! IBM! Facebook! Linuxtips and YOU! For learning🚀🚀🚀🧙‍♂️🧙‍♂️🙌🙌
+Happy new year!
+Welcome 2020!
+Keep Coding!
 #100DaysOfCode
-#100DaysOfMLCode
+#100DaysOfMLCode 
+
 <image  src="./../img/1_glS59LILbexf_JEkwn0_NA.gif">
 
 

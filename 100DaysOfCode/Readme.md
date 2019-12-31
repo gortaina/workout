@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 kubectl get pods 
 
 ## Day 77/112 - 18/12/2019- Tuesday
-Focus on the new course! Getting the jewel´s! Thank you Vidhya!
+Focus on the new course! Get the IA Gems! Thank you Vidhya!
 #100DaysOfCode
 #100DaysOfMLCode
 <image  src="./../img/1_glS59LILbexf_JEkwn0_NA.gif">

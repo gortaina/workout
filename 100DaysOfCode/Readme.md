@@ -6,8 +6,8 @@ kubectl get pods
 
 ## Day 88/116 - 02/01/2020- Thursday
 01/01/2020 - no code, just relax
-02/01/2020 - Studying Monte Carlo Method
-#100DaysOfCode
+02/01/2020 - Studying Monte Carlo Method for Statistics
+#100DaysOfCode 👨‍💼
 #100DaysOfMLCode 
 
 

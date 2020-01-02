@@ -4,6 +4,13 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 kubectl get pods 
 
+## Day 88/116 - 02/01/2020- Thursday
+01/01/2020 - no code, just relax
+02/01/2020 - Studying Monte Carlo Method
+#100DaysOfCode
+#100DaysOfMLCode 
+
+
 ## Day 87/116 - 31/12/2019- Tuesday
 Focus on the new course! Get the IA Gems! Thank you Vidhya! Google! Coursera! FreeCodeCamp! Udacity! DSA! IBM! Facebook! Linuxtips and YOU! For learning🚀🚀🚀🧙‍♂️🧙‍♂️🙌🙌
 Happy new year!

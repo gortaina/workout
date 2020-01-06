@@ -4,8 +4,8 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 
 kubectl get pods 
-## Day 88/116 - 03/01/2020 to 04/01/2020 I get sick, 5 days in house, 2 with no code
-## Day 89/116 05/01/2020 - I´m recovered a little, I think, go to study R language, I was setup in my bedrom for use the computer and TV(BIG).This is I call, living by the code.
+## Day 89/118 - 03/01/2020 to 04/01/2020 I get sick, 5 days in house, 2 with no code
+## Day 90/118 05/01/2020 - I´m recovered a little, I think, go to study R language, I was setup in my bedrom for use the computer and TV(BIG).This is I call, living by the code.
 #100DaysOfCode 
 <image  src="./../img/2020-01-05_23-07-46.jpg">
 

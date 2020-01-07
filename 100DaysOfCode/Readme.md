@@ -6,8 +6,8 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 kubectl get pods 
 
 
-## Day 92/118 07/01/2020 -
-Making plots with climate cities from Brazil, data from Berkeley -> http://berkeleyearth.org/data/
+## Day 92/118 07/01/2020 - afternow
+Making plots with cities temperature from Brazil, data from Berkeley -> http://berkeleyearth.org/data/
 #100DaysOfCode 
 #100DaysOfMLCode 
 <image  src="./../img/2020-01-07_18-51-34.jpg">

@@ -4,6 +4,18 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 
 kubectl get pods 
+
+
+## Day 92/118 07/01/2020 -
+
+#100DaysOfCode 
+#100DaysOfMLCode 
+
+## Day 91/118 06/01/2020 - day
+Getting 8.5 Million records in five seconds with R
+#100DaysOfCode 
+#100DaysOfMLCode 
+
 ## Day 89/118 - 03/01/2020 to 04/01/2020 I get sick, 5 days in house, 2 with no code
 ## Day 90/118 05/01/2020 - I´m recovered a little, I think, go to study R language, I was setup in my bedrom for use the computer and TV(BIG).This is I call, living by the code.
 #100DaysOfCode 

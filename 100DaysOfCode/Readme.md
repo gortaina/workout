@@ -10,6 +10,7 @@ kubectl get pods
 Making plots with climate cities from Brazil, data from Berkeley -> http://berkeleyearth.org/data/
 #100DaysOfCode 
 #100DaysOfMLCode 
+<image  src="./../img/2020-01-07_18-51-34.jpg">
 
 ## Day 91/118 06/01/2020 - day
 Getting 8.5 Million records in seconds with R, wow!

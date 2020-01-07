@@ -12,7 +12,8 @@ kubectl get pods
 #100DaysOfMLCode 
 
 ## Day 91/118 06/01/2020 - day
-Getting 8.5 Million records in five seconds with R
+Getting 8.5 Million records in seconds with R
+<image  src="./../img/2020-01-07_18-40-19.jpg">
 #100DaysOfCode 
 #100DaysOfMLCode 
 

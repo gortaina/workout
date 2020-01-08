@@ -5,6 +5,9 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 kubectl get pods 
 
+##Day 93/118 08/01/2020
+I win a course for Azure! This is new! I need the Hermione Granger Time-Turner ! 🦄
+#100daysofCode #100DaysOfMLCode 
 
 ## Day 92/118 07/01/2020 - afternow
 Making plots with cities temperature from Brazil, data from Berkeley -> http://berkeleyearth.org/data/

@@ -2,8 +2,14 @@
 Microsoft Power BI para Data Science
 https://www.youtube.com/watch?v=NYbNeNl6eAk
 
-
 kubectl get pods 
+
+## Day 94/118 09/01/2020
+Gettind Trello database into PowerBI and creating cards by alerts from PowerBI
+https://lnkd.in/eD74iQe
+#100daysofCode #100DaysOfMLCode 
+<image  src="./../img/2020-01-09_22-27-11.jpg">
+
 
 ## Day 93/118 08/01/2020
 I win a course for Azure! This is new! I need the Hermione Granger Time-Turner ! 🦄

@@ -4,6 +4,12 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 kubectl get pods 
 
+## Day 96/118 11/01/2020 - Saturday
+Doing some qwiklabs on kubernetes.
+
+#100daysofCode #100DaysOfMLCode 
+
+
 ## Day 95/118 10/01/2020 - Friday
 I earned a promotion 👨‍🎓, going to new department, exclusive for Data Science!👨‍💼 Can't describe how excited I am about it.  Thank you hashtag -> #100daysofCode #100DaysOfMLCode 
 

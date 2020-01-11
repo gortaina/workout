@@ -4,6 +4,12 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 kubectl get pods 
 
+## Day 95/118 10/01/2020 - Friday
+I earn a promotion \o, going to new department, exclusive for Data Science!
+ Can't describe how excited I am about it. 
+#100daysofCode #100DaysOfMLCode 
+<image  src="./../img/huyimages.jpg">
+            
 ## Day 94/118 09/01/2020 - Thursday
 Getting Trello database into PowerBI and creating cards by alerts from PowerBI
 https://lnkd.in/eD74iQe

@@ -5,7 +5,8 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 kubectl get pods 
 
 ## Day 96/118 11/01/2020 - Saturday
-Doing some qwiklabs on kubernetes.
+Doing some labs on kubernetes, get them too:
+goo.gle/2tFKS3k
 #100daysofCode #100DaysOfMLCode 
 <image  src="./../img/EOAyGk1WkAAp5vf.jpg">
 	

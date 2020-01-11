@@ -6,8 +6,12 @@ kubectl get pods
 
 ## Day 96/118 11/01/2020 - Saturday
 Doing some qwiklabs on kubernetes.
-
 #100daysofCode #100DaysOfMLCode 
+<image  src="./../img/EOAyGk1WkAAp5vf.jpg">
+	
+
+
+
 
 
 ## Day 95/118 10/01/2020 - Friday

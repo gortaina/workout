@@ -4,6 +4,12 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 kubectl get pods 
 
+
+## Day 98/118 13/01/2020 - Monday - dawn
+Organizing my repositories on GitHub for new omnistack week from RocketSeat
+#100daysofCode #100DaysOfMLCode 
+
+
 ## Day 97/118 12/01/2020 - Sunday
 FreeCodeCamp exercises, plot graphics in R
 #100daysofCode #100DaysOfMLCode 

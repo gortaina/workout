@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 kubectl get pods  Wednesday
 
 ## Day 100/118 15/01/2020 - Wednesday 
-Getting 2º Day on omnistack week 🚀:seat:🚀:seat:🚀 :seat: #RocketSeat #React #GitHubAPI
+Getting 2º Day on omnistack week 🚀:seat:🚀:seat:🚀 :seat: ⚗️ #RocketSeat #React #GitHubAPI
 #100daysofCode #100DaysOfMLCode 
 <image  src="./../img/maxresdefault.jpg">
 

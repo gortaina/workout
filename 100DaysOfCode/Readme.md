@@ -5,8 +5,9 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 kubectl get pods  Wednesday
 
 ## Day 100/118 15/01/2020 - Wednesday 
-Getting 2º Day on omnistack week
+Getting 2º Day on omnistack week 🚀:seat:🚀:seat:🚀 :seat: #RocketSeat #React #GitHubAPI
 #100daysofCode #100DaysOfMLCode 
+<image  src="./../img/maxresdefault.jpg">
 
 ## Day 99/118 14/01/2020 - Tuesday 
 Learning how do a simple *.exe for distribution, simple.

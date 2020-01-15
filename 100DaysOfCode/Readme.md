@@ -4,11 +4,15 @@ https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 kubectl get pods  Wednesday
 
+## Day 100/118 15/01/2020 - Wednesday 
+Getting 2º Day on omnistack week
+#100daysofCode #100DaysOfMLCode 
 
 ## Day 99/118 14/01/2020 - Tuesday 
 Learning how do a simple *.exe for distribution, simple.
 A *.exe that create a link with personalized icon on desktop, without using vs, c/c++.
 I tried Inno Setup, but it doesn´t create link with my ico 🤖
+resolved by a simple .bat file
 #100daysofCode #100DaysOfMLCode 
 
 ## Day 98/118 13/01/2020 - Monday - dawn

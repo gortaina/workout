@@ -11,7 +11,7 @@ Tecnologias : Power BI + API Rest + Flow + Forms
 Survey for mobile/totem with real time visualization on the panel, coding time: 30 min(of course, you could fast than me!)
 For this I´m used : Power BI + API Rest + Flow + Forms
 #100daysofCode #100DaysOfMLCode 
-<image  src="./../img/2020-01-16_18-21-58.png">
+<image  src="./../img/gif_forms_flow_api_power_bi_2020-01-16_18-14-19.gif">
 
 
 ## Day 100/118 15/01/2020 - Wednesday 

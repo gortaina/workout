@@ -3,6 +3,16 @@ Microsoft Power BI para Data Science
 https://www.youtube.com/watch?v=NYbNeNl6eAk
 
 kubectl get pods  Wednesday
+Pesquisa mobile/totem com coleta real time e visualização direto no painel, tempo de codificação: 30 min(acho que vc faz mais rápido).
+Segue um overview de teste.
+Tecnologias : Power BI + API Rest + Flow + Forms
+
+## Day 100/118 15/01/2020 - Wednesday 
+Survey for mobile/totem with real time visualization on the panel, coding time: 30 min(of course, you could fast than me!)
+For this I´m used : Power BI + API Rest + Flow + Forms
+#100daysofCode #100DaysOfMLCode 
+<image  src="./../img/2020-01-16_18-21-58.png">
+
 
 ## Day 100/118 15/01/2020 - Wednesday 
 Getting 2º Day on omnistack week 🚀:seat:🚀:seat:🚀 :seat: ⚗️ #RocketSeat #React #GitHubAPI

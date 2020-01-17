@@ -7,6 +7,11 @@ Pesquisa mobile/totem com coleta real time e visualização direto no painel, te
 Segue um overview de teste.
 Tecnologias : Power BI + API Rest + Flow + Forms
 
+## Day 102/118 17/01/2020 - Friday 
+End of Bootcamp oministack 10 from RocketSeat
+#100daysofCode #100DaysOfMLCode 
+
+
 ## Day 101/118 16/01/2020 - Thursday 
 Survey for mobile/totem with real time visualization on the panel, coding time: 30 min(of course, you could fast than me!)
 For this I´m used : Power BI + API Rest + Flow + Forms

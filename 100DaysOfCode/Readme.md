@@ -8,7 +8,7 @@ Segue um overview de teste.
 Tecnologias : Power BI + API Rest + Flow + Forms
 
 ## Day 102/118 17/01/2020 - Friday 
-End of Bootcamp oministack 10 from RocketSeat
+End of Bootcamp oministack 10 from RocketSeat: React, ReactJS Mongo, Node.js.
 #100daysofCode #100DaysOfMLCode 
 <image  src="./../img/2020-01-17_15-58-24.png">
 

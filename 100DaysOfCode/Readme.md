@@ -7,6 +7,10 @@ Pesquisa mobile/totem com coleta real time e visualização direto no painel, te
 Segue um overview de teste.
 Tecnologias : Power BI + API Rest + Flow + Forms
 
+## Day 103/118 18/01/2020 - Saturday 
+Refactoring some bootcamp app´s to easy going to other devs.
+#100daysofCode #100DaysOfMLCode
+
 ## Day 102/118 17/01/2020 - Friday 
 End of Bootcamp oministack 10 from RocketSeat: React, ReactJS Mongo, Node.js.
 #100daysofCode #100DaysOfMLCode 

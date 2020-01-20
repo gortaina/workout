@@ -11,7 +11,7 @@ Tecnologias : Power BI + API Rest + Flow + Forms
 ## Day 104/118 19/01/2020 - Sunday 
 Still Refactoring some bootcamp app´s to easy going to other devs.
 #100daysofCode #100DaysOfMLCode
-
+<image  src="./../img/2020-01-19_23-55-40.jpg">
 
 ## Day 103/118 18/01/2020 - Saturday 
 Refactoring some bootcamp app´s to easy going to other devs.

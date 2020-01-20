@@ -7,6 +7,12 @@ Pesquisa mobile/totem com coleta real time e visualização direto no painel, te
 Segue um overview de teste.
 Tecnologias : Power BI + API Rest + Flow + Forms
 
+
+## Day 104/118 19/01/2020 - Sunday 
+Still Refactoring some bootcamp app´s to easy going to other devs.
+#100daysofCode #100DaysOfMLCode
+
+
 ## Day 103/118 18/01/2020 - Saturday 
 Refactoring some bootcamp app´s to easy going to other devs.
 #100daysofCode #100DaysOfMLCode

@@ -1,11 +1,17 @@
 ### 100DaysOfCode
 Microsoft Power BI para Data Science
 https://www.youtube.com/watch?v=NYbNeNl6eAk
+:construction:
+https://gitmoji.carloscuesta.me/
 
 kubectl get pods  Wednesday
 Pesquisa mobile/totem com coleta real time e visualização direto no painel, tempo de codificação: 30 min(acho que vc faz mais rápido).
 Segue um overview de teste.
 Tecnologias : Power BI + API Rest + Flow + Forms
+
+## Day 105/118 20/01/2020 - Monday 
+Doing terraform labs on linuxtips class
+#100daysofCode #100DaysOfMLCode 
 
 
 ## Day 104/118 19/01/2020 - Sunday 

@@ -14,16 +14,17 @@ Tecnologias : Power BI + API Rest + Flow + Forms
 Machine Learning algorithms: CART(supervisioned) and K-Means(not supervisioned)
 #100daysofCode #100DaysOfMLCode 
 
-
 ## Day 107/118 22/01/2020 - Wednesday 
 Learning about colors, fonts and diagrams
 #100daysofCode #100DaysOfMLCode 
-
-
+<image  src="./../img/kkkgygyg.jpg">
 
 ## Day 106/118 21/01/2020 - Tuesday
-Discover how to create fake data to power bi
+Discover how to model a function to overpass default Power BI behavior for graphics
 #100daysofCode #100DaysOfMLCode 
+https://www.youtube.com/watch?v=uOBb2nbIP3k&t=3519s
+
+
 
 
 

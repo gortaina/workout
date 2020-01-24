@@ -10,6 +10,11 @@ Segue um overview de teste.
 Tecnologias : Power BI + API Rest + Flow + Forms
 
 
+## Day 109/118 24/01/2020 - Friday 
+Learn PowerApp, try to put a simple proxy for a website
+#100daysofCode #100DaysOfMLCode 
+
+
 ## Day 108/118 23/01/2020 - Thursday 
 Machine Learning algorithms: CART(supervisioned) and K-Means(not supervisioned)
 #100daysofCode #100DaysOfMLCode 

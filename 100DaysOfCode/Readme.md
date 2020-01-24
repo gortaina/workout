@@ -9,6 +9,24 @@ Pesquisa mobile/totem com coleta real time e visualização direto no painel, te
 Segue um overview de teste.
 Tecnologias : Power BI + API Rest + Flow + Forms
 
+
+## Day 108/118 23/01/2020 - Thursday 
+Machine Learning algorithms: CART(supervisioned) and K-Means(not supervisioned)
+#100daysofCode #100DaysOfMLCode 
+
+
+## Day 107/118 22/01/2020 - Wednesday 
+Learning about colors, fonts and diagrams
+#100daysofCode #100DaysOfMLCode 
+
+
+
+## Day 106/118 21/01/2020 - Tuesday
+Discover how to create fake data to power bi
+#100daysofCode #100DaysOfMLCode 
+
+
+
 ## Day 105/118 20/01/2020 - Monday 
 Doing terraform labs on linuxtips class
 #100daysofCode #100DaysOfMLCode 

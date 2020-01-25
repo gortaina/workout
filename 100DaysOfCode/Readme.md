@@ -10,6 +10,14 @@ Segue um overview de teste.
 Tecnologias : Power BI + API Rest + Flow + Forms
 
 
+## Day 110/118 25/01/2020 - Saturday 
+I taking this lab a bitter slower, not to win, but learning.
+
+#100daysofCode #100DaysOfMLCode 
+
+https://t.co/LmY2Mt56kw?amp=1
+
+
 ## Day 109/118 24/01/2020 - Friday 
 Learn PowerApp, try to put a simple proxy for a website
 #100daysofCode #100DaysOfMLCode 

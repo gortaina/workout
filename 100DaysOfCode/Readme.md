@@ -3,6 +3,10 @@ Microsoft Power BI para Data Science
 https://www.youtube.com/watch?v=NYbNeNl6eAk
 :construction:
 https://gitmoji.carloscuesta.me/
+Dicas
+Se você quiser ignorar os arquivos .env de serem comitados e eventualmente enviar sua url de conexão para o github, execute o seguinte comando:
+git update-index --assume-unchanged <O ARQUIVO AQUI>
+	
 
 kubectl get pods  Wednesday
 Pesquisa mobile/totem com coleta real time e visualização direto no painel, tempo de codificação: 30 min(acho que vc faz mais rápido).

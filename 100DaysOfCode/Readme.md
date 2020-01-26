@@ -9,6 +9,12 @@ Pesquisa mobile/totem com coleta real time e visualização direto no painel, te
 Segue um overview de teste.
 Tecnologias : Power BI + API Rest + Flow + Forms
 
+## Day 111/118 26/01/2020 - Sunday 
+Finishing the last two labs, I didnt win the prize, but I learned, this is enought for me \.
+#100daysofCode #100DaysOfMLCode 
+https://t.co/LmY2Mt56kw?amp=1
+<image  src="./../img/EPGoKgzX0AIMspZ.jpg">
+	
 
 ## Day 110/118 25/01/2020 - Saturday 
 I taking this lab a bitter slower, not to win, but learning.

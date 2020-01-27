@@ -13,6 +13,12 @@ Pesquisa mobile/totem com coleta real time e visualização direto no painel, te
 Segue um overview de teste.
 Tecnologias : Power BI + API Rest + Flow + Forms
 
+## Day 112/118 27/01/2020 - Monday 
+Making crud app´s on PowerApp for excel files, it´s simple to use! Just as need. 
+#100daysofCode #100DaysOfMLCode 
+
+
+
 ## Day 111/118 26/01/2020 - Sunday 
 Finishing the last two labs, I didnt win the prize, but I learned, this is enought for me \.
 #100daysofCode #100DaysOfMLCode 

@@ -13,11 +13,19 @@ Pesquisa mobile/totem com coleta real time e visualização direto no painel, te
 Segue um overview de teste.
 Tecnologias : Power BI + API Rest + Flow + Forms
 
+## Day 114/118 29/01/2020 - Wednesday 
+Flutter labs and widgets
+#100daysofCode #100DaysOfMLCode #Novatics #Flutter
+
+## Day 113/118 28/01/2020 - Tuesday 
+Flutter at Novatics
+#100daysofCode #100DaysOfMLCode #Novatics #Flutter
+<image  src="./../img/WhatsApp Image 2020-01-28 at 22.29.40.jpeg">
+
+
 ## Day 112/118 27/01/2020 - Monday 
 Making crud app´s on PowerApp for excel files, it´s simple to use! Just as need. 
 #100daysofCode #100DaysOfMLCode 
-
-
 
 ## Day 111/118 26/01/2020 - Sunday 
 Finishing the last two labs, I didnt win the prize, but I learned, this is enought for me \.

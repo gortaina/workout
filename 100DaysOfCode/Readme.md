@@ -17,6 +17,8 @@ Tecnologias : Power BI + API Rest + Flow + Forms
 Hackaton \o
 https://megahack.shawee.io/?utm_source=rocketseat#premiacao
 #100daysofCode #100DaysOfMLCode 
+<image  src="./../img/2c1224f7-2164-40fe-bc6e-1af0132b2af5.jpg">
+	
 
 ## Day 115/118 30/01/2020 - Thursday 
 Studying R and graphics

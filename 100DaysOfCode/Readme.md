@@ -13,6 +13,15 @@ Pesquisa mobile/totem com coleta real time e visualização direto no painel, te
 Segue um overview de teste.
 Tecnologias : Power BI + API Rest + Flow + Forms
 
+## Day 116/118 31/01/2020 - Thursday 
+Hackaton \o
+https://megahack.shawee.io/?utm_source=rocketseat#premiacao
+#100daysofCode #100DaysOfMLCode 
+
+## Day 115/118 30/01/2020 - Thursday 
+Studying R and graphics
+#100daysofCode #100DaysOfMLCode
+
 ## Day 114/118 29/01/2020 - Wednesday 
 Flutter labs and widgets
 #100daysofCode #100DaysOfMLCode #Novatics #Flutter

@@ -14,7 +14,7 @@ Segue um overview de teste.
 Tecnologias : Power BI + API Rest + Flow + Forms
 Day 116/118 31/01/2020 - Thursday
 
-## Day 117/118 31/01/2020 - Saturday 
+## Day 117/118 01/02/2020 - Saturday 
 QuickLasb Cloud Hero Speedrun
 Let's do it!
 code 1q-cloud-3 to join the ACE challenge speedrun and you can win big. https://goo.gle/2tZycVI

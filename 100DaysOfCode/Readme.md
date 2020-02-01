@@ -16,10 +16,10 @@ Day 116/118 31/01/2020 - Thursday
 
 ## Day 117/118 31/01/2020 - Saturday 
 QuickLasb Cloud Hero Speedrun
-Lets do it!
-#100daysofCode #100DaysOfMLCode 
-<image  src="./../img/2c1224f7-2164-40fe-bc6e-1af0132b2af5.jpg">
+Let's do it!
 code 1q-cloud-3 to join the ACE challenge speedrun and you can win big. https://goo.gle/2tZycVI
+#100daysofCode #100DaysOfMLCode 
+<image  src="./../img/EPoo1I9W4AIRktS.gif">
 	
 
 ## Day 116/118 31/01/2020 - Thursday 

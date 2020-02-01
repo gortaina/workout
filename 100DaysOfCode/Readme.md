@@ -12,6 +12,15 @@ kubectl get pods  Wednesday
 Pesquisa mobile/totem com coleta real time e visualização direto no painel, tempo de codificação: 30 min(acho que vc faz mais rápido).
 Segue um overview de teste.
 Tecnologias : Power BI + API Rest + Flow + Forms
+Day 116/118 31/01/2020 - Thursday
+
+## Day 117/118 31/01/2020 - Saturday 
+QuickLasb Cloud Hero Speedrun
+Lets do it!
+#100daysofCode #100DaysOfMLCode 
+<image  src="./../img/2c1224f7-2164-40fe-bc6e-1af0132b2af5.jpg">
+code 1q-cloud-3 to join the ACE challenge speedrun and you can win big. https://goo.gle/2tZycVI
+	
 
 ## Day 116/118 31/01/2020 - Thursday 
 Hackaton \o

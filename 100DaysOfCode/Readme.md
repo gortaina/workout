@@ -1,18 +1,17 @@
 ### 100DaysOfCode
-Microsoft Power BI para Data Science
-https://www.youtube.com/watch?v=NYbNeNl6eAk
-:construction:
-https://gitmoji.carloscuesta.me/
-Dicas
-Se você quiser ignorar os arquivos .env de serem comitados e eventualmente enviar sua url de conexão para o github, execute o seguinte comando:
-git update-index --assume-unchanged <O ARQUIVO AQUI>
-	
 
-kubectl get pods  Wednesday
-Pesquisa mobile/totem com coleta real time e visualização direto no painel, tempo de codificação: 30 min(acho que vc faz mais rápido).
-Segue um overview de teste.
-Tecnologias : Power BI + API Rest + Flow + Forms
-Day 116/118 31/01/2020 - Thursday
+Minha jornada do desafio 100 dias de código, demorei 18 dias a mais para completar o desafio, mas está feito! 
+02/02/2020.
+Hora do round 2!
+
+## Day 118/118 02/02/2020 - Sunday 
+Misson complete!!!
+100 days of code :rocket:
+Finished a qwilabs.
+#100daysofCode #100DaysOfMLCode 
+<image  src="./../img/xtWuDtdg_400x400.jpg.pagespeed.ic.1ceNLU6KkS.jpg">
+
+ 
 
 ## Day 117/118 01/02/2020 - Saturday 
 QuickLasb Cloud Hero Speedrun

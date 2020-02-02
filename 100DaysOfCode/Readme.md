@@ -1,7 +1,12 @@
 ### 100DaysOfCode
 
+My journey trough 100 days of code,  it took me 18 more days to complete the challenge, but it's done!
+02/02/2020.
+Time to round 2!
+
 Minha jornada do desafio 100 dias de código, demorei 18 dias a mais para completar o desafio, mas está feito! 
 02/02/2020.
+
 Hora do round 2!
 
 ## Day 118/118 02/02/2020 - Sunday 
@@ -9,11 +14,9 @@ Misson complete!!!
 100 days of code :rocket:
 Finished a qwilabs.
 #100daysofCode #100DaysOfMLCode 
-<image  src="./../img/xtWuDtdg_400x400.jpg.pagespeed.ic.1ceNLU6KkS.jpg">
+<image  src="./../img/END100DAYSOFCODE.jpg">
 
- 
-
-## Day 117/118 01/02/2020 - Saturday 
+ ## Day 117/118 01/02/2020 - Saturday 
 QuickLasb Cloud Hero Speedrun
 Let's do it!
 code 1q-cloud-3 to join the ACE challenge speedrun and you can win big. https://goo.gle/2tZycVI

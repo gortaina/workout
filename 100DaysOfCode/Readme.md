@@ -2,12 +2,12 @@
 
 My journey trough 100 days of code,  it took me 18 more days to complete the challenge, but it's done!
 02/02/2020.
-Time to round 2!
+Time to round 2!Follow me in my new repo https://github.com/gortaina/100DaysOfCode/blob/master/round2.md
 
 Minha jornada do desafio 100 dias de código, demorei 18 dias a mais para completar o desafio, mas está feito! 
 02/02/2020.
 
-Hora do round 2!
+Hora do round 2! Siga-me no meu novo repositório https://github.com/gortaina/100DaysOfCode/blob/master/round2.md
 
 ## Day 118/118 02/02/2020 - Sunday 
 Misson complete!!!

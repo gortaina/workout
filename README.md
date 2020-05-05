@@ -1,7 +1,7 @@
 ### workout
 ##Daily workout
 
-This is new repo, the old repo ArquiteturaJoel is for storage a bunc of projects
+This is new repo, the old repo ArquiteturaJoel is for storage a bunk of projects
 This repo is like a portifólio, more clean with few projects.
 
 100DaysOfCode - complete

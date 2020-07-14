@@ -1,0 +1,19 @@
+### 1- Pandas
+
+df.describe( )
+df.info( )
+ 
+ 
+### 2- Pandas Profiling
+  
+!pip install pandas-profiling
+from pandas_profiling import ProfileReport
+
+ProfileReport(df)
+
+### 3-Sweetviz
+!pip install sweetviz
+import sweetviz as sv
+
+analise = sv.analyze(df)
+analise.show_html('mtcars.html')
